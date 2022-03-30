@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<Key>0FAD592134526E60D21F11B95B45839C3A9B92D447536E15EFC7F8FB5F97003941C6E471EDA9902A1347E0816E970E9446291C4211BDFDD0121F506F6C1DCDDF951805EABD9B882AB3D2462CF832F07667B63754847469CC5968C95711136479602EFF8ECE57824F30536D3716B2F224133C84577045268D315F06C8B86989ADD264CEF6F8ED8FE368CF1E5104FC60DA715444EF80DCBB690280F3DD3324162469117AF437D9D95F619F5B2EF9A4B2CB04408E87C241290E366C77DDAE4AE899E8A38C6560B288580B5A6D67A0746B31296E993C7BBEE2A5C6C5A113583AF306D2BC3F559010BE5E955E7EEFD7832F7113AF4410D0AF53B24AA901CAE8787EC8</Key>
+<AriaBank id="2561" name="Horse Pulse" vendor="Karoryfer" product="Horse Pulse" version="1000" >
+
+	<Define name="$sample_dir" value="../Samples"/>
+
+	<!-- branding for Aria Player and sforzando UIs -->
+	<AriaGUI path="GUI/aria_info.xml"  target="*ARIA_INFO" />
+
+	<!-- main patches -->   
+	<AriaProgram  name="01 - Keyswitch" gui="GUI/01-keyswitch.xml"> <AriaElement path="Programs/01-keyswitch.sfz"/> </AriaProgram>
+	<AriaProgram  name="02 - VSOP" gui="GUI/02-VSOP.xml"> <AriaElement path="Programs/02-VSOP.sfz"/> </AriaProgram>
+	<AriaProgram  name="03 - Pluck" gui="GUI/03-pluck.xml"> <AriaElement path="Programs/03-pluck.sfz"/> </AriaProgram>
+	<AriaProgram  name="04 - Scrape" gui="GUI/04-scrape.xml"> <AriaElement path="Programs/04-scrape.sfz"/> </AriaProgram>
+	<AriaProgram  name="05 - Soft Scrape" gui="GUI/05-soft_scrape.xml"> <AriaElement path="Programs/05-soft_scrape.sfz"/> </AriaProgram>
+	<AriaProgram  name="06 - Nail" gui="GUI/06-nail.xml"> <AriaElement path="Programs/06-nail.sfz"/> </AriaProgram>
+	<AriaProgram  name="07 - Flam" gui="GUI/07-flam.xml"> <AriaElement path="Programs/07-flam.sfz"/> </AriaProgram>
+	<AriaProgram  name="08 - Effects" gui="GUI/08-fx.xml"> <AriaElement path="Programs/08-fx.sfz"/> </AriaProgram>
+	
+</AriaBank>
