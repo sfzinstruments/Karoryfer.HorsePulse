@@ -1,0 +1,40 @@
+<control>
+label_cc31=Width
+label_cc107=Release
+label_cc110=Preroll
+label_cc113=Deep
+
+set_cc31=127
+set_cc107=40
+set_cc110=95
+
+<global>
+ampeg_release=0.25
+ampeg_release_oncc107=1.25
+width=0
+width_oncc31=100
+
+<master>
+ampeg_attack=0.01
+offset_oncc110=4100
+
+<group>
+#include "modules/mezzopiano.sfz"
+<group>
+loop_mode=one_shot
+#include "modules/fx.sfz"
+
+
+<master>
+ampeg_attack=0.02
+offset=2050
+offset_oncc110=2050
+amplitude_oncc113=100
+locc113=1
+transpose=-12
+
+<group>
+#include "modules/mezzopiano.sfz"
+<group>
+loop_mode=one_shot
+#include "modules/fx.sfz"

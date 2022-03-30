@@ -1,0 +1,73 @@
+<control>
+label_cc31=Width
+label_cc107=Release
+label_cc110=Preroll
+label_cc113=Deep
+
+set_cc31=127
+set_cc107=40
+set_cc110=95
+
+<global>
+ampeg_release=0.25
+ampeg_release_oncc107=1.25
+width=0
+width_oncc31=100
+amp_veltrack=0
+
+<master>
+ampeg_attack=0.01
+offset_oncc110=4100
+<group>
+amp_veltrack=100
+loop_mode=one_shot
+#include "modules/fx.sfz"
+<group>
+lovel=127
+#include "modules/flam.sfz"
+<group>
+lovel=115
+hivel=126
+#include "modules/nail.sfz"
+<group>
+lovel=74
+hivel=114
+#include "modules/forte.sfz"
+<group>
+lovel=33
+hivel=73
+#include "modules/mezzopiano.sfz"
+<group>
+hivel=32
+#include "modules/piano.sfz"
+
+<master>
+ampeg_attack=0.02
+offset=2050
+offset_oncc110=2050
+amplitude_oncc113=100
+locc113=1
+transpose=-12
+
+<group>
+amp_veltrack=100
+loop_mode=one_shot
+#include "modules/fx.sfz"
+<group>
+lovel=127
+#include "modules/flam.sfz"
+<group>
+lovel=115
+hivel=126
+#include "modules/nail.sfz"
+<group>
+lovel=74
+hivel=114
+#include "modules/forte.sfz"
+<group>
+lovel=33
+hivel=73
+#include "modules/mezzopiano.sfz"
+<group>
+hivel=32
+#include "modules/piano.sfz"

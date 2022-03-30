@@ -1,0 +1,182 @@
+<control>
+label_cc31=Width
+label_cc107=Release
+label_cc110=Preroll
+label_cc113=Deep
+
+set_cc31=127
+set_cc107=40
+set_cc110=95
+
+<global>
+ampeg_release=0.25
+ampeg_release_oncc107=1.25
+ampeg_attack=0.01
+width=0
+width_oncc31=100
+sw_lokey=31
+sw_hikey=36
+sw_default=36
+offset_oncc110=4100
+
+<master>
+sw_last=36
+sw_label=VSOP
+amp_veltrack=0
+<group>
+amp_veltrack=100
+loop_mode=one_shot
+#include "modules/fx.sfz"
+<group>
+lovel=127
+#include "modules/flam.sfz"
+<group>
+lovel=115
+hivel=126
+#include "modules/nail.sfz"
+<group>
+lovel=74
+hivel=114
+#include "modules/forte.sfz"
+<group>
+lovel=33
+hivel=73
+#include "modules/mezzopiano.sfz"
+<group>
+hivel=32
+#include "modules/piano.sfz"
+
+
+<master>
+sw_last=35
+sw_label=Pluck
+<group>
+#include "modules/forte.sfz"
+<group>
+loop_mode=one_shot
+#include "modules/fx.sfz"
+
+<master>
+sw_last=34
+sw_label=Scrape
+<group>
+#include "modules/mezzopiano.sfz"
+<group>
+loop_mode=one_shot
+#include "modules/fx.sfz"
+
+<master>
+sw_last=33
+sw_label=Soft Scrape
+<group>
+#include "modules/piano.sfz"
+<group>
+loop_mode=one_shot
+#include "modules/fx.sfz"
+
+<master>
+sw_last=32
+sw_label=Nail
+<group>
+#include "modules/nail.sfz"
+<group>
+loop_mode=one_shot
+#include "modules/fx.sfz"
+
+<master>
+sw_last=31
+sw_label=Flam
+<group>
+#include "modules/flam.sfz"
+<group>
+loop_mode=one_shot
+#include "modules/fx.sfz"
+
+<global>
+ampeg_release=0.25
+ampeg_release_oncc107=1.25
+ampeg_attack=0.02
+width=0
+width_oncc31=100
+sw_lokey=31
+sw_hikey=36
+sw_default=36
+offset=2050
+offset_oncc110=2050
+amplitude_oncc113=100
+locc113=1
+transpose=-12
+
+<master>
+sw_last=36
+sw_label=VSOP
+amp_veltrack=0
+<group>
+amp_veltrack=100
+loop_mode=one_shot
+#include "modules/fx.sfz"
+<group>
+lovel=127
+#include "modules/flam.sfz"
+<group>
+lovel=115
+hivel=126
+#include "modules/nail.sfz"
+<group>
+lovel=74
+hivel=114
+#include "modules/forte.sfz"
+<group>
+lovel=33
+hivel=73
+#include "modules/mezzopiano.sfz"
+<group>
+hivel=32
+#include "modules/piano.sfz"
+
+
+<master>
+sw_last=35
+sw_label=Pluck
+<group>
+#include "modules/forte.sfz"
+<group>
+loop_mode=one_shot
+#include "modules/fx.sfz"
+
+<master>
+sw_last=34
+sw_label=Scrape
+<group>
+#include "modules/mezzopiano.sfz"
+<group>
+loop_mode=one_shot
+#include "modules/fx.sfz"
+
+<master>
+sw_last=33
+sw_label=Soft Scrape
+<group>
+#include "modules/piano.sfz"
+<group>
+loop_mode=one_shot
+#include "modules/fx.sfz"
+
+<master>
+sw_last=32
+sw_label=Nail
+<group>
+#include "modules/nail.sfz"
+<group>
+loop_mode=one_shot
+#include "modules/fx.sfz"
+
+<master>
+sw_last=31
+sw_label=Flam
+<group>
+#include "modules/flam.sfz"
+<group>
+loop_mode=one_shot
+#include "modules/fx.sfz"
+
