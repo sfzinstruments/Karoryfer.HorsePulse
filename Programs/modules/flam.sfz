@@ -1,13 +1,13 @@
 
 <region>
-sample=..\Samples\flam\d3_flam_rr1.wav
+sample=..\Samples\flam\d3_flam_rr1.flac
 lokey=38
 hikey=38
 seq_length=12
 pitch_keycenter=38
 
 <region>
-sample=..\Samples\flam\d3_flam_rr2.wav
+sample=..\Samples\flam\d3_flam_rr2.flac
 lokey=38
 hikey=38
 seq_length=12
@@ -15,7 +15,7 @@ seq_position=2
 pitch_keycenter=38
 
 <region>
-sample=..\Samples\flam\d3_flam_rr1.wav
+sample=..\Samples\flam\d3_flam_rr1.flac
 lokey=38
 hikey=38
 seq_length=12
@@ -23,7 +23,7 @@ seq_position=3
 pitch_keycenter=38
 
 <region>
-sample=..\Samples\flam\d3_flam_rr2.wav
+sample=..\Samples\flam\d3_flam_rr2.flac
 lokey=38
 hikey=38
 seq_length=12
@@ -31,7 +31,7 @@ seq_position=4
 pitch_keycenter=38
 
 <region>
-sample=..\Samples\flam\d3_flam_rr1.wav
+sample=..\Samples\flam\d3_flam_rr1.flac
 lokey=38
 hikey=38
 seq_length=12
@@ -39,7 +39,7 @@ seq_position=5
 pitch_keycenter=38
 
 <region>
-sample=..\Samples\flam\d3_flam_rr2.wav
+sample=..\Samples\flam\d3_flam_rr2.flac
 lokey=38
 hikey=38
 seq_length=12
@@ -47,7 +47,7 @@ seq_position=6
 pitch_keycenter=38
 
 <region>
-sample=..\Samples\flam\d3_flam_rr1.wav
+sample=..\Samples\flam\d3_flam_rr1.flac
 lokey=38
 hikey=38
 seq_length=12
@@ -55,7 +55,7 @@ seq_position=7
 pitch_keycenter=38
 
 <region>
-sample=..\Samples\flam\d3_flam_rr2.wav
+sample=..\Samples\flam\d3_flam_rr2.flac
 lokey=38
 hikey=38
 seq_length=12
@@ -63,7 +63,7 @@ seq_position=8
 pitch_keycenter=38
 
 <region>
-sample=..\Samples\flam\d3_flam_rr1.wav
+sample=..\Samples\flam\d3_flam_rr1.flac
 lokey=38
 hikey=38
 seq_length=12
@@ -71,7 +71,7 @@ seq_position=9
 pitch_keycenter=38
 
 <region>
-sample=..\Samples\flam\d3_flam_rr2.wav
+sample=..\Samples\flam\d3_flam_rr2.flac
 lokey=38
 hikey=38
 seq_length=12
@@ -79,7 +79,7 @@ seq_position=10
 pitch_keycenter=38
 
 <region>
-sample=..\Samples\flam\d3_flam_rr1.wav
+sample=..\Samples\flam\d3_flam_rr1.flac
 lokey=38
 hikey=38
 seq_length=12
@@ -87,7 +87,7 @@ seq_position=11
 pitch_keycenter=38
 
 <region>
-sample=..\Samples\flam\d3_flam_rr2.wav
+sample=..\Samples\flam\d3_flam_rr2.flac
 lokey=38
 hikey=38
 seq_length=12
@@ -95,14 +95,14 @@ seq_position=12
 pitch_keycenter=38
 
 <region>
-sample=..\Samples\flam\eb3_flam_rr1.wav
+sample=..\Samples\flam\eb3_flam_rr1.flac
 lokey=39
 hikey=39
 seq_length=12
 pitch_keycenter=39
 
 <region>
-sample=..\Samples\flam\eb3_flam_rr2.wav
+sample=..\Samples\flam\eb3_flam_rr2.flac
 lokey=39
 hikey=39
 seq_length=12
@@ -110,7 +110,7 @@ seq_position=2
 pitch_keycenter=39
 
 <region>
-sample=..\Samples\flam\eb3_flam_rr1.wav
+sample=..\Samples\flam\eb3_flam_rr1.flac
 lokey=39
 hikey=39
 seq_length=12
@@ -118,7 +118,7 @@ seq_position=3
 pitch_keycenter=39
 
 <region>
-sample=..\Samples\flam\eb3_flam_rr2.wav
+sample=..\Samples\flam\eb3_flam_rr2.flac
 lokey=39
 hikey=39
 seq_length=12
@@ -126,7 +126,7 @@ seq_position=4
 pitch_keycenter=39
 
 <region>
-sample=..\Samples\flam\eb3_flam_rr1.wav
+sample=..\Samples\flam\eb3_flam_rr1.flac
 lokey=39
 hikey=39
 seq_length=12
@@ -134,7 +134,7 @@ seq_position=5
 pitch_keycenter=39
 
 <region>
-sample=..\Samples\flam\eb3_flam_rr2.wav
+sample=..\Samples\flam\eb3_flam_rr2.flac
 lokey=39
 hikey=39
 seq_length=12
@@ -142,7 +142,7 @@ seq_position=6
 pitch_keycenter=39
 
 <region>
-sample=..\Samples\flam\eb3_flam_rr1.wav
+sample=..\Samples\flam\eb3_flam_rr1.flac
 lokey=39
 hikey=39
 seq_length=12
@@ -150,7 +150,7 @@ seq_position=7
 pitch_keycenter=39
 
 <region>
-sample=..\Samples\flam\eb3_flam_rr2.wav
+sample=..\Samples\flam\eb3_flam_rr2.flac
 lokey=39
 hikey=39
 seq_length=12
@@ -158,7 +158,7 @@ seq_position=8
 pitch_keycenter=39
 
 <region>
-sample=..\Samples\flam\eb3_flam_rr1.wav
+sample=..\Samples\flam\eb3_flam_rr1.flac
 lokey=39
 hikey=39
 seq_length=12
@@ -166,7 +166,7 @@ seq_position=9
 pitch_keycenter=39
 
 <region>
-sample=..\Samples\flam\eb3_flam_rr2.wav
+sample=..\Samples\flam\eb3_flam_rr2.flac
 lokey=39
 hikey=39
 seq_length=12
@@ -174,7 +174,7 @@ seq_position=10
 pitch_keycenter=39
 
 <region>
-sample=..\Samples\flam\eb3_flam_rr1.wav
+sample=..\Samples\flam\eb3_flam_rr1.flac
 lokey=39
 hikey=39
 seq_length=12
@@ -182,7 +182,7 @@ seq_position=11
 pitch_keycenter=39
 
 <region>
-sample=..\Samples\flam\eb3_flam_rr2.wav
+sample=..\Samples\flam\eb3_flam_rr2.flac
 lokey=39
 hikey=39
 seq_length=12
@@ -190,14 +190,14 @@ seq_position=12
 pitch_keycenter=39
 
 <region>
-sample=..\Samples\flam\e3_flam_rr1.wav
+sample=..\Samples\flam\e3_flam_rr1.flac
 lokey=40
 hikey=40
 seq_length=12
 pitch_keycenter=40
 
 <region>
-sample=..\Samples\flam\e3_flam_rr2.wav
+sample=..\Samples\flam\e3_flam_rr2.flac
 lokey=40
 hikey=40
 seq_length=12
@@ -205,7 +205,7 @@ seq_position=2
 pitch_keycenter=40
 
 <region>
-sample=..\Samples\flam\e3_flam_rr1.wav
+sample=..\Samples\flam\e3_flam_rr1.flac
 lokey=40
 hikey=40
 seq_length=12
@@ -213,7 +213,7 @@ seq_position=3
 pitch_keycenter=40
 
 <region>
-sample=..\Samples\flam\e3_flam_rr2.wav
+sample=..\Samples\flam\e3_flam_rr2.flac
 lokey=40
 hikey=40
 seq_length=12
@@ -221,7 +221,7 @@ seq_position=4
 pitch_keycenter=40
 
 <region>
-sample=..\Samples\flam\e3_flam_rr1.wav
+sample=..\Samples\flam\e3_flam_rr1.flac
 lokey=40
 hikey=40
 seq_length=12
@@ -229,7 +229,7 @@ seq_position=5
 pitch_keycenter=40
 
 <region>
-sample=..\Samples\flam\e3_flam_rr2.wav
+sample=..\Samples\flam\e3_flam_rr2.flac
 lokey=40
 hikey=40
 seq_length=12
@@ -237,7 +237,7 @@ seq_position=6
 pitch_keycenter=40
 
 <region>
-sample=..\Samples\flam\e3_flam_rr1.wav
+sample=..\Samples\flam\e3_flam_rr1.flac
 lokey=40
 hikey=40
 seq_length=12
@@ -245,7 +245,7 @@ seq_position=7
 pitch_keycenter=40
 
 <region>
-sample=..\Samples\flam\e3_flam_rr2.wav
+sample=..\Samples\flam\e3_flam_rr2.flac
 lokey=40
 hikey=40
 seq_length=12
@@ -253,7 +253,7 @@ seq_position=8
 pitch_keycenter=40
 
 <region>
-sample=..\Samples\flam\e3_flam_rr1.wav
+sample=..\Samples\flam\e3_flam_rr1.flac
 lokey=40
 hikey=40
 seq_length=12
@@ -261,7 +261,7 @@ seq_position=9
 pitch_keycenter=40
 
 <region>
-sample=..\Samples\flam\e3_flam_rr2.wav
+sample=..\Samples\flam\e3_flam_rr2.flac
 lokey=40
 hikey=40
 seq_length=12
@@ -269,7 +269,7 @@ seq_position=10
 pitch_keycenter=40
 
 <region>
-sample=..\Samples\flam\e3_flam_rr1.wav
+sample=..\Samples\flam\e3_flam_rr1.flac
 lokey=40
 hikey=40
 seq_length=12
@@ -277,7 +277,7 @@ seq_position=11
 pitch_keycenter=40
 
 <region>
-sample=..\Samples\flam\e3_flam_rr2.wav
+sample=..\Samples\flam\e3_flam_rr2.flac
 lokey=40
 hikey=40
 seq_length=12
@@ -285,14 +285,14 @@ seq_position=12
 pitch_keycenter=40
 
 <region>
-sample=..\Samples\flam\f3_flam_rr1.wav
+sample=..\Samples\flam\f3_flam_rr1.flac
 lokey=41
 hikey=41
 seq_length=12
 pitch_keycenter=41
 
 <region>
-sample=..\Samples\flam\f3_flam_rr2.wav
+sample=..\Samples\flam\f3_flam_rr2.flac
 lokey=41
 hikey=41
 seq_length=12
@@ -300,7 +300,7 @@ seq_position=2
 pitch_keycenter=41
 
 <region>
-sample=..\Samples\flam\f3_flam_rr1.wav
+sample=..\Samples\flam\f3_flam_rr1.flac
 lokey=41
 hikey=41
 seq_length=12
@@ -308,7 +308,7 @@ seq_position=3
 pitch_keycenter=41
 
 <region>
-sample=..\Samples\flam\f3_flam_rr2.wav
+sample=..\Samples\flam\f3_flam_rr2.flac
 lokey=41
 hikey=41
 seq_length=12
@@ -316,7 +316,7 @@ seq_position=4
 pitch_keycenter=41
 
 <region>
-sample=..\Samples\flam\f3_flam_rr1.wav
+sample=..\Samples\flam\f3_flam_rr1.flac
 lokey=41
 hikey=41
 seq_length=12
@@ -324,7 +324,7 @@ seq_position=5
 pitch_keycenter=41
 
 <region>
-sample=..\Samples\flam\f3_flam_rr2.wav
+sample=..\Samples\flam\f3_flam_rr2.flac
 lokey=41
 hikey=41
 seq_length=12
@@ -332,7 +332,7 @@ seq_position=6
 pitch_keycenter=41
 
 <region>
-sample=..\Samples\flam\f3_flam_rr1.wav
+sample=..\Samples\flam\f3_flam_rr1.flac
 lokey=41
 hikey=41
 seq_length=12
@@ -340,7 +340,7 @@ seq_position=7
 pitch_keycenter=41
 
 <region>
-sample=..\Samples\flam\f3_flam_rr2.wav
+sample=..\Samples\flam\f3_flam_rr2.flac
 lokey=41
 hikey=41
 seq_length=12
@@ -348,7 +348,7 @@ seq_position=8
 pitch_keycenter=41
 
 <region>
-sample=..\Samples\flam\f3_flam_rr1.wav
+sample=..\Samples\flam\f3_flam_rr1.flac
 lokey=41
 hikey=41
 seq_length=12
@@ -356,7 +356,7 @@ seq_position=9
 pitch_keycenter=41
 
 <region>
-sample=..\Samples\flam\f3_flam_rr2.wav
+sample=..\Samples\flam\f3_flam_rr2.flac
 lokey=41
 hikey=41
 seq_length=12
@@ -364,7 +364,7 @@ seq_position=10
 pitch_keycenter=41
 
 <region>
-sample=..\Samples\flam\f3_flam_rr1.wav
+sample=..\Samples\flam\f3_flam_rr1.flac
 lokey=41
 hikey=41
 seq_length=12
@@ -372,7 +372,7 @@ seq_position=11
 pitch_keycenter=41
 
 <region>
-sample=..\Samples\flam\f3_flam_rr2.wav
+sample=..\Samples\flam\f3_flam_rr2.flac
 lokey=41
 hikey=41
 seq_length=12
@@ -380,14 +380,14 @@ seq_position=12
 pitch_keycenter=41
 
 <region>
-sample=..\Samples\flam\gb3_flam_rr1.wav
+sample=..\Samples\flam\gb3_flam_rr1.flac
 lokey=42
 hikey=42
 seq_length=12
 pitch_keycenter=42
 
 <region>
-sample=..\Samples\flam\gb3_flam_rr2.wav
+sample=..\Samples\flam\gb3_flam_rr2.flac
 lokey=42
 hikey=42
 seq_length=12
@@ -395,7 +395,7 @@ seq_position=2
 pitch_keycenter=42
 
 <region>
-sample=..\Samples\flam\gb3_flam_rr1.wav
+sample=..\Samples\flam\gb3_flam_rr1.flac
 lokey=42
 hikey=42
 seq_length=12
@@ -403,7 +403,7 @@ seq_position=3
 pitch_keycenter=42
 
 <region>
-sample=..\Samples\flam\gb3_flam_rr2.wav
+sample=..\Samples\flam\gb3_flam_rr2.flac
 lokey=42
 hikey=42
 seq_length=12
@@ -411,7 +411,7 @@ seq_position=4
 pitch_keycenter=42
 
 <region>
-sample=..\Samples\flam\gb3_flam_rr1.wav
+sample=..\Samples\flam\gb3_flam_rr1.flac
 lokey=42
 hikey=42
 seq_length=12
@@ -419,7 +419,7 @@ seq_position=5
 pitch_keycenter=42
 
 <region>
-sample=..\Samples\flam\gb3_flam_rr2.wav
+sample=..\Samples\flam\gb3_flam_rr2.flac
 lokey=42
 hikey=42
 seq_length=12
@@ -427,7 +427,7 @@ seq_position=6
 pitch_keycenter=42
 
 <region>
-sample=..\Samples\flam\gb3_flam_rr1.wav
+sample=..\Samples\flam\gb3_flam_rr1.flac
 lokey=42
 hikey=42
 seq_length=12
@@ -435,7 +435,7 @@ seq_position=7
 pitch_keycenter=42
 
 <region>
-sample=..\Samples\flam\gb3_flam_rr2.wav
+sample=..\Samples\flam\gb3_flam_rr2.flac
 lokey=42
 hikey=42
 seq_length=12
@@ -443,7 +443,7 @@ seq_position=8
 pitch_keycenter=42
 
 <region>
-sample=..\Samples\flam\gb3_flam_rr1.wav
+sample=..\Samples\flam\gb3_flam_rr1.flac
 lokey=42
 hikey=42
 seq_length=12
@@ -451,7 +451,7 @@ seq_position=9
 pitch_keycenter=42
 
 <region>
-sample=..\Samples\flam\gb3_flam_rr2.wav
+sample=..\Samples\flam\gb3_flam_rr2.flac
 lokey=42
 hikey=42
 seq_length=12
@@ -459,7 +459,7 @@ seq_position=10
 pitch_keycenter=42
 
 <region>
-sample=..\Samples\flam\gb3_flam_rr1.wav
+sample=..\Samples\flam\gb3_flam_rr1.flac
 lokey=42
 hikey=42
 seq_length=12
@@ -467,7 +467,7 @@ seq_position=11
 pitch_keycenter=42
 
 <region>
-sample=..\Samples\flam\gb3_flam_rr2.wav
+sample=..\Samples\flam\gb3_flam_rr2.flac
 lokey=42
 hikey=42
 seq_length=12
@@ -475,14 +475,14 @@ seq_position=12
 pitch_keycenter=42
 
 <region>
-sample=..\Samples\flam\g3_flam_rr1.wav
+sample=..\Samples\flam\g3_flam_rr1.flac
 lokey=43
 hikey=43
 seq_length=12
 pitch_keycenter=43
 
 <region>
-sample=..\Samples\flam\g3_flam_rr2.wav
+sample=..\Samples\flam\g3_flam_rr2.flac
 lokey=43
 hikey=43
 seq_length=12
@@ -490,7 +490,7 @@ seq_position=2
 pitch_keycenter=43
 
 <region>
-sample=..\Samples\flam\g3_flam_rr1.wav
+sample=..\Samples\flam\g3_flam_rr1.flac
 lokey=43
 hikey=43
 seq_length=12
@@ -498,7 +498,7 @@ seq_position=3
 pitch_keycenter=43
 
 <region>
-sample=..\Samples\flam\g3_flam_rr2.wav
+sample=..\Samples\flam\g3_flam_rr2.flac
 lokey=43
 hikey=43
 seq_length=12
@@ -506,7 +506,7 @@ seq_position=4
 pitch_keycenter=43
 
 <region>
-sample=..\Samples\flam\g3_flam_rr1.wav
+sample=..\Samples\flam\g3_flam_rr1.flac
 lokey=43
 hikey=43
 seq_length=12
@@ -514,7 +514,7 @@ seq_position=5
 pitch_keycenter=43
 
 <region>
-sample=..\Samples\flam\g3_flam_rr2.wav
+sample=..\Samples\flam\g3_flam_rr2.flac
 lokey=43
 hikey=43
 seq_length=12
@@ -522,7 +522,7 @@ seq_position=6
 pitch_keycenter=43
 
 <region>
-sample=..\Samples\flam\g3_flam_rr1.wav
+sample=..\Samples\flam\g3_flam_rr1.flac
 lokey=43
 hikey=43
 seq_length=12
@@ -530,7 +530,7 @@ seq_position=7
 pitch_keycenter=43
 
 <region>
-sample=..\Samples\flam\g3_flam_rr2.wav
+sample=..\Samples\flam\g3_flam_rr2.flac
 lokey=43
 hikey=43
 seq_length=12
@@ -538,7 +538,7 @@ seq_position=8
 pitch_keycenter=43
 
 <region>
-sample=..\Samples\flam\g3_flam_rr1.wav
+sample=..\Samples\flam\g3_flam_rr1.flac
 lokey=43
 hikey=43
 seq_length=12
@@ -546,7 +546,7 @@ seq_position=9
 pitch_keycenter=43
 
 <region>
-sample=..\Samples\flam\g3_flam_rr2.wav
+sample=..\Samples\flam\g3_flam_rr2.flac
 lokey=43
 hikey=43
 seq_length=12
@@ -554,7 +554,7 @@ seq_position=10
 pitch_keycenter=43
 
 <region>
-sample=..\Samples\flam\g3_flam_rr1.wav
+sample=..\Samples\flam\g3_flam_rr1.flac
 lokey=43
 hikey=43
 seq_length=12
@@ -562,7 +562,7 @@ seq_position=11
 pitch_keycenter=43
 
 <region>
-sample=..\Samples\flam\g3_flam_rr2.wav
+sample=..\Samples\flam\g3_flam_rr2.flac
 lokey=43
 hikey=43
 seq_length=12
@@ -570,14 +570,14 @@ seq_position=12
 pitch_keycenter=43
 
 <region>
-sample=..\Samples\flam\ab3_flam_rr1.wav
+sample=..\Samples\flam\ab3_flam_rr1.flac
 lokey=44
 hikey=44
 seq_length=12
 pitch_keycenter=44
 
 <region>
-sample=..\Samples\flam\ab3_flam_rr2.wav
+sample=..\Samples\flam\ab3_flam_rr2.flac
 lokey=44
 hikey=44
 seq_length=12
@@ -585,7 +585,7 @@ seq_position=2
 pitch_keycenter=44
 
 <region>
-sample=..\Samples\flam\ab3_flam_rr1.wav
+sample=..\Samples\flam\ab3_flam_rr1.flac
 lokey=44
 hikey=44
 seq_length=12
@@ -593,7 +593,7 @@ seq_position=3
 pitch_keycenter=44
 
 <region>
-sample=..\Samples\flam\ab3_flam_rr2.wav
+sample=..\Samples\flam\ab3_flam_rr2.flac
 lokey=44
 hikey=44
 seq_length=12
@@ -601,7 +601,7 @@ seq_position=4
 pitch_keycenter=44
 
 <region>
-sample=..\Samples\flam\ab3_flam_rr1.wav
+sample=..\Samples\flam\ab3_flam_rr1.flac
 lokey=44
 hikey=44
 seq_length=12
@@ -609,7 +609,7 @@ seq_position=5
 pitch_keycenter=44
 
 <region>
-sample=..\Samples\flam\ab3_flam_rr2.wav
+sample=..\Samples\flam\ab3_flam_rr2.flac
 lokey=44
 hikey=44
 seq_length=12
@@ -617,7 +617,7 @@ seq_position=6
 pitch_keycenter=44
 
 <region>
-sample=..\Samples\flam\ab3_flam_rr1.wav
+sample=..\Samples\flam\ab3_flam_rr1.flac
 lokey=44
 hikey=44
 seq_length=12
@@ -625,7 +625,7 @@ seq_position=7
 pitch_keycenter=44
 
 <region>
-sample=..\Samples\flam\ab3_flam_rr2.wav
+sample=..\Samples\flam\ab3_flam_rr2.flac
 lokey=44
 hikey=44
 seq_length=12
@@ -633,7 +633,7 @@ seq_position=8
 pitch_keycenter=44
 
 <region>
-sample=..\Samples\flam\ab3_flam_rr1.wav
+sample=..\Samples\flam\ab3_flam_rr1.flac
 lokey=44
 hikey=44
 seq_length=12
@@ -641,7 +641,7 @@ seq_position=9
 pitch_keycenter=44
 
 <region>
-sample=..\Samples\flam\ab3_flam_rr2.wav
+sample=..\Samples\flam\ab3_flam_rr2.flac
 lokey=44
 hikey=44
 seq_length=12
@@ -649,7 +649,7 @@ seq_position=10
 pitch_keycenter=44
 
 <region>
-sample=..\Samples\flam\ab3_flam_rr1.wav
+sample=..\Samples\flam\ab3_flam_rr1.flac
 lokey=44
 hikey=44
 seq_length=12
@@ -657,7 +657,7 @@ seq_position=11
 pitch_keycenter=44
 
 <region>
-sample=..\Samples\flam\ab3_flam_rr2.wav
+sample=..\Samples\flam\ab3_flam_rr2.flac
 lokey=44
 hikey=44
 seq_length=12
@@ -665,14 +665,14 @@ seq_position=12
 pitch_keycenter=44
 
 <region>
-sample=..\Samples\flam\a3_flam_rr1.wav
+sample=..\Samples\flam\a3_flam_rr1.flac
 lokey=45
 hikey=45
 seq_length=12
 pitch_keycenter=45
 
 <region>
-sample=..\Samples\flam\a3_flam_rr2.wav
+sample=..\Samples\flam\a3_flam_rr2.flac
 lokey=45
 hikey=45
 seq_length=12
@@ -680,7 +680,7 @@ seq_position=2
 pitch_keycenter=45
 
 <region>
-sample=..\Samples\flam\a3_flam_rr1.wav
+sample=..\Samples\flam\a3_flam_rr1.flac
 lokey=45
 hikey=45
 seq_length=12
@@ -688,7 +688,7 @@ seq_position=3
 pitch_keycenter=45
 
 <region>
-sample=..\Samples\flam\a3_flam_rr2.wav
+sample=..\Samples\flam\a3_flam_rr2.flac
 lokey=45
 hikey=45
 seq_length=12
@@ -696,7 +696,7 @@ seq_position=4
 pitch_keycenter=45
 
 <region>
-sample=..\Samples\flam\a3_flam_rr1.wav
+sample=..\Samples\flam\a3_flam_rr1.flac
 lokey=45
 hikey=45
 seq_length=12
@@ -704,7 +704,7 @@ seq_position=5
 pitch_keycenter=45
 
 <region>
-sample=..\Samples\flam\a3_flam_rr2.wav
+sample=..\Samples\flam\a3_flam_rr2.flac
 lokey=45
 hikey=45
 seq_length=12
@@ -712,7 +712,7 @@ seq_position=6
 pitch_keycenter=45
 
 <region>
-sample=..\Samples\flam\a3_flam_rr1.wav
+sample=..\Samples\flam\a3_flam_rr1.flac
 lokey=45
 hikey=45
 seq_length=12
@@ -720,7 +720,7 @@ seq_position=7
 pitch_keycenter=45
 
 <region>
-sample=..\Samples\flam\a3_flam_rr2.wav
+sample=..\Samples\flam\a3_flam_rr2.flac
 lokey=45
 hikey=45
 seq_length=12
@@ -728,7 +728,7 @@ seq_position=8
 pitch_keycenter=45
 
 <region>
-sample=..\Samples\flam\a3_flam_rr1.wav
+sample=..\Samples\flam\a3_flam_rr1.flac
 lokey=45
 hikey=45
 seq_length=12
@@ -736,7 +736,7 @@ seq_position=9
 pitch_keycenter=45
 
 <region>
-sample=..\Samples\flam\a3_flam_rr2.wav
+sample=..\Samples\flam\a3_flam_rr2.flac
 lokey=45
 hikey=45
 seq_length=12
@@ -744,7 +744,7 @@ seq_position=10
 pitch_keycenter=45
 
 <region>
-sample=..\Samples\flam\a3_flam_rr1.wav
+sample=..\Samples\flam\a3_flam_rr1.flac
 lokey=45
 hikey=45
 seq_length=12
@@ -752,7 +752,7 @@ seq_position=11
 pitch_keycenter=45
 
 <region>
-sample=..\Samples\flam\a3_flam_rr2.wav
+sample=..\Samples\flam\a3_flam_rr2.flac
 lokey=45
 hikey=45
 seq_length=12
@@ -760,14 +760,14 @@ seq_position=12
 pitch_keycenter=45
 
 <region>
-sample=..\Samples\flam\bb3_flam_rr1.wav
+sample=..\Samples\flam\bb3_flam_rr1.flac
 lokey=46
 hikey=46
 seq_length=12
 pitch_keycenter=46
 
 <region>
-sample=..\Samples\flam\bb3_flam_rr2.wav
+sample=..\Samples\flam\bb3_flam_rr2.flac
 lokey=46
 hikey=46
 seq_length=12
@@ -775,7 +775,7 @@ seq_position=2
 pitch_keycenter=46
 
 <region>
-sample=..\Samples\flam\bb3_flam_rr1.wav
+sample=..\Samples\flam\bb3_flam_rr1.flac
 lokey=46
 hikey=46
 seq_length=12
@@ -783,7 +783,7 @@ seq_position=3
 pitch_keycenter=46
 
 <region>
-sample=..\Samples\flam\bb3_flam_rr2.wav
+sample=..\Samples\flam\bb3_flam_rr2.flac
 lokey=46
 hikey=46
 seq_length=12
@@ -791,7 +791,7 @@ seq_position=4
 pitch_keycenter=46
 
 <region>
-sample=..\Samples\flam\bb3_flam_rr1.wav
+sample=..\Samples\flam\bb3_flam_rr1.flac
 lokey=46
 hikey=46
 seq_length=12
@@ -799,7 +799,7 @@ seq_position=5
 pitch_keycenter=46
 
 <region>
-sample=..\Samples\flam\bb3_flam_rr2.wav
+sample=..\Samples\flam\bb3_flam_rr2.flac
 lokey=46
 hikey=46
 seq_length=12
@@ -807,7 +807,7 @@ seq_position=6
 pitch_keycenter=46
 
 <region>
-sample=..\Samples\flam\bb3_flam_rr1.wav
+sample=..\Samples\flam\bb3_flam_rr1.flac
 lokey=46
 hikey=46
 seq_length=12
@@ -815,7 +815,7 @@ seq_position=7
 pitch_keycenter=46
 
 <region>
-sample=..\Samples\flam\bb3_flam_rr2.wav
+sample=..\Samples\flam\bb3_flam_rr2.flac
 lokey=46
 hikey=46
 seq_length=12
@@ -823,7 +823,7 @@ seq_position=8
 pitch_keycenter=46
 
 <region>
-sample=..\Samples\flam\bb3_flam_rr1.wav
+sample=..\Samples\flam\bb3_flam_rr1.flac
 lokey=46
 hikey=46
 seq_length=12
@@ -831,7 +831,7 @@ seq_position=9
 pitch_keycenter=46
 
 <region>
-sample=..\Samples\flam\bb3_flam_rr2.wav
+sample=..\Samples\flam\bb3_flam_rr2.flac
 lokey=46
 hikey=46
 seq_length=12
@@ -839,7 +839,7 @@ seq_position=10
 pitch_keycenter=46
 
 <region>
-sample=..\Samples\flam\bb3_flam_rr1.wav
+sample=..\Samples\flam\bb3_flam_rr1.flac
 lokey=46
 hikey=46
 seq_length=12
@@ -847,7 +847,7 @@ seq_position=11
 pitch_keycenter=46
 
 <region>
-sample=..\Samples\flam\bb3_flam_rr2.wav
+sample=..\Samples\flam\bb3_flam_rr2.flac
 lokey=46
 hikey=46
 seq_length=12
@@ -855,14 +855,14 @@ seq_position=12
 pitch_keycenter=46
 
 <region>
-sample=..\Samples\flam\b3_flam_rr1.wav
+sample=..\Samples\flam\b3_flam_rr1.flac
 lokey=47
 hikey=47
 seq_length=12
 pitch_keycenter=47
 
 <region>
-sample=..\Samples\flam\b3_flam_rr2.wav
+sample=..\Samples\flam\b3_flam_rr2.flac
 lokey=47
 hikey=47
 seq_length=12
@@ -870,7 +870,7 @@ seq_position=2
 pitch_keycenter=47
 
 <region>
-sample=..\Samples\flam\b3_flam_rr1.wav
+sample=..\Samples\flam\b3_flam_rr1.flac
 lokey=47
 hikey=47
 seq_length=12
@@ -878,7 +878,7 @@ seq_position=3
 pitch_keycenter=47
 
 <region>
-sample=..\Samples\flam\b3_flam_rr2.wav
+sample=..\Samples\flam\b3_flam_rr2.flac
 lokey=47
 hikey=47
 seq_length=12
@@ -886,7 +886,7 @@ seq_position=4
 pitch_keycenter=47
 
 <region>
-sample=..\Samples\flam\b3_flam_rr1.wav
+sample=..\Samples\flam\b3_flam_rr1.flac
 lokey=47
 hikey=47
 seq_length=12
@@ -894,7 +894,7 @@ seq_position=5
 pitch_keycenter=47
 
 <region>
-sample=..\Samples\flam\b3_flam_rr2.wav
+sample=..\Samples\flam\b3_flam_rr2.flac
 lokey=47
 hikey=47
 seq_length=12
@@ -902,7 +902,7 @@ seq_position=6
 pitch_keycenter=47
 
 <region>
-sample=..\Samples\flam\b3_flam_rr1.wav
+sample=..\Samples\flam\b3_flam_rr1.flac
 lokey=47
 hikey=47
 seq_length=12
@@ -910,7 +910,7 @@ seq_position=7
 pitch_keycenter=47
 
 <region>
-sample=..\Samples\flam\b3_flam_rr2.wav
+sample=..\Samples\flam\b3_flam_rr2.flac
 lokey=47
 hikey=47
 seq_length=12
@@ -918,7 +918,7 @@ seq_position=8
 pitch_keycenter=47
 
 <region>
-sample=..\Samples\flam\b3_flam_rr1.wav
+sample=..\Samples\flam\b3_flam_rr1.flac
 lokey=47
 hikey=47
 seq_length=12
@@ -926,7 +926,7 @@ seq_position=9
 pitch_keycenter=47
 
 <region>
-sample=..\Samples\flam\b3_flam_rr2.wav
+sample=..\Samples\flam\b3_flam_rr2.flac
 lokey=47
 hikey=47
 seq_length=12
@@ -934,7 +934,7 @@ seq_position=10
 pitch_keycenter=47
 
 <region>
-sample=..\Samples\flam\b3_flam_rr1.wav
+sample=..\Samples\flam\b3_flam_rr1.flac
 lokey=47
 hikey=47
 seq_length=12
@@ -942,7 +942,7 @@ seq_position=11
 pitch_keycenter=47
 
 <region>
-sample=..\Samples\flam\b3_flam_rr2.wav
+sample=..\Samples\flam\b3_flam_rr2.flac
 lokey=47
 hikey=47
 seq_length=12
@@ -950,14 +950,14 @@ seq_position=12
 pitch_keycenter=47
 
 <region>
-sample=..\Samples\flam\c4_flam_rr1.wav
+sample=..\Samples\flam\c4_flam_rr1.flac
 lokey=48
 hikey=48
 seq_length=12
 pitch_keycenter=48
 
 <region>
-sample=..\Samples\flam\c4_flam_rr2.wav
+sample=..\Samples\flam\c4_flam_rr2.flac
 lokey=48
 hikey=48
 seq_length=12
@@ -965,7 +965,7 @@ seq_position=2
 pitch_keycenter=48
 
 <region>
-sample=..\Samples\flam\c4_flam_rr1.wav
+sample=..\Samples\flam\c4_flam_rr1.flac
 lokey=48
 hikey=48
 seq_length=12
@@ -973,7 +973,7 @@ seq_position=3
 pitch_keycenter=48
 
 <region>
-sample=..\Samples\flam\c4_flam_rr2.wav
+sample=..\Samples\flam\c4_flam_rr2.flac
 lokey=48
 hikey=48
 seq_length=12
@@ -981,7 +981,7 @@ seq_position=4
 pitch_keycenter=48
 
 <region>
-sample=..\Samples\flam\c4_flam_rr1.wav
+sample=..\Samples\flam\c4_flam_rr1.flac
 lokey=48
 hikey=48
 seq_length=12
@@ -989,7 +989,7 @@ seq_position=5
 pitch_keycenter=48
 
 <region>
-sample=..\Samples\flam\c4_flam_rr2.wav
+sample=..\Samples\flam\c4_flam_rr2.flac
 lokey=48
 hikey=48
 seq_length=12
@@ -997,7 +997,7 @@ seq_position=6
 pitch_keycenter=48
 
 <region>
-sample=..\Samples\flam\c4_flam_rr1.wav
+sample=..\Samples\flam\c4_flam_rr1.flac
 lokey=48
 hikey=48
 seq_length=12
@@ -1005,7 +1005,7 @@ seq_position=7
 pitch_keycenter=48
 
 <region>
-sample=..\Samples\flam\c4_flam_rr2.wav
+sample=..\Samples\flam\c4_flam_rr2.flac
 lokey=48
 hikey=48
 seq_length=12
@@ -1013,7 +1013,7 @@ seq_position=8
 pitch_keycenter=48
 
 <region>
-sample=..\Samples\flam\c4_flam_rr1.wav
+sample=..\Samples\flam\c4_flam_rr1.flac
 lokey=48
 hikey=48
 seq_length=12
@@ -1021,7 +1021,7 @@ seq_position=9
 pitch_keycenter=48
 
 <region>
-sample=..\Samples\flam\c4_flam_rr2.wav
+sample=..\Samples\flam\c4_flam_rr2.flac
 lokey=48
 hikey=48
 seq_length=12
@@ -1029,7 +1029,7 @@ seq_position=10
 pitch_keycenter=48
 
 <region>
-sample=..\Samples\flam\c4_flam_rr1.wav
+sample=..\Samples\flam\c4_flam_rr1.flac
 lokey=48
 hikey=48
 seq_length=12
@@ -1037,7 +1037,7 @@ seq_position=11
 pitch_keycenter=48
 
 <region>
-sample=..\Samples\flam\c4_flam_rr2.wav
+sample=..\Samples\flam\c4_flam_rr2.flac
 lokey=48
 hikey=48
 seq_length=12
@@ -1045,14 +1045,14 @@ seq_position=12
 pitch_keycenter=48
 
 <region>
-sample=..\Samples\flam\db4_flam_rr1.wav
+sample=..\Samples\flam\db4_flam_rr1.flac
 lokey=49
 hikey=49
 seq_length=12
 pitch_keycenter=49
 
 <region>
-sample=..\Samples\flam\db4_flam_rr2.wav
+sample=..\Samples\flam\db4_flam_rr2.flac
 lokey=49
 hikey=49
 seq_length=12
@@ -1060,7 +1060,7 @@ seq_position=2
 pitch_keycenter=49
 
 <region>
-sample=..\Samples\flam\db4_flam_rr1.wav
+sample=..\Samples\flam\db4_flam_rr1.flac
 lokey=49
 hikey=49
 seq_length=12
@@ -1068,7 +1068,7 @@ seq_position=3
 pitch_keycenter=49
 
 <region>
-sample=..\Samples\flam\db4_flam_rr2.wav
+sample=..\Samples\flam\db4_flam_rr2.flac
 lokey=49
 hikey=49
 seq_length=12
@@ -1076,7 +1076,7 @@ seq_position=4
 pitch_keycenter=49
 
 <region>
-sample=..\Samples\flam\db4_flam_rr1.wav
+sample=..\Samples\flam\db4_flam_rr1.flac
 lokey=49
 hikey=49
 seq_length=12
@@ -1084,7 +1084,7 @@ seq_position=5
 pitch_keycenter=49
 
 <region>
-sample=..\Samples\flam\db4_flam_rr2.wav
+sample=..\Samples\flam\db4_flam_rr2.flac
 lokey=49
 hikey=49
 seq_length=12
@@ -1092,7 +1092,7 @@ seq_position=6
 pitch_keycenter=49
 
 <region>
-sample=..\Samples\flam\db4_flam_rr1.wav
+sample=..\Samples\flam\db4_flam_rr1.flac
 lokey=49
 hikey=49
 seq_length=12
@@ -1100,7 +1100,7 @@ seq_position=7
 pitch_keycenter=49
 
 <region>
-sample=..\Samples\flam\db4_flam_rr2.wav
+sample=..\Samples\flam\db4_flam_rr2.flac
 lokey=49
 hikey=49
 seq_length=12
@@ -1108,7 +1108,7 @@ seq_position=8
 pitch_keycenter=49
 
 <region>
-sample=..\Samples\flam\db4_flam_rr1.wav
+sample=..\Samples\flam\db4_flam_rr1.flac
 lokey=49
 hikey=49
 seq_length=12
@@ -1116,7 +1116,7 @@ seq_position=9
 pitch_keycenter=49
 
 <region>
-sample=..\Samples\flam\db4_flam_rr2.wav
+sample=..\Samples\flam\db4_flam_rr2.flac
 lokey=49
 hikey=49
 seq_length=12
@@ -1124,7 +1124,7 @@ seq_position=10
 pitch_keycenter=49
 
 <region>
-sample=..\Samples\flam\db4_flam_rr1.wav
+sample=..\Samples\flam\db4_flam_rr1.flac
 lokey=49
 hikey=49
 seq_length=12
@@ -1132,7 +1132,7 @@ seq_position=11
 pitch_keycenter=49
 
 <region>
-sample=..\Samples\flam\db4_flam_rr2.wav
+sample=..\Samples\flam\db4_flam_rr2.flac
 lokey=49
 hikey=49
 seq_length=12
@@ -1140,14 +1140,14 @@ seq_position=12
 pitch_keycenter=49
 
 <region>
-sample=..\Samples\flam\d4_flam_rr1.wav
+sample=..\Samples\flam\d4_flam_rr1.flac
 lokey=50
 hikey=50
 seq_length=12
 pitch_keycenter=50
 
 <region>
-sample=..\Samples\flam\d4_flam_rr2.wav
+sample=..\Samples\flam\d4_flam_rr2.flac
 lokey=50
 hikey=50
 seq_length=12
@@ -1155,7 +1155,7 @@ seq_position=2
 pitch_keycenter=50
 
 <region>
-sample=..\Samples\flam\d4_flam_rr1.wav
+sample=..\Samples\flam\d4_flam_rr1.flac
 lokey=50
 hikey=50
 seq_length=12
@@ -1163,7 +1163,7 @@ seq_position=3
 pitch_keycenter=50
 
 <region>
-sample=..\Samples\flam\d4_flam_rr2.wav
+sample=..\Samples\flam\d4_flam_rr2.flac
 lokey=50
 hikey=50
 seq_length=12
@@ -1171,7 +1171,7 @@ seq_position=4
 pitch_keycenter=50
 
 <region>
-sample=..\Samples\flam\d4_flam_rr1.wav
+sample=..\Samples\flam\d4_flam_rr1.flac
 lokey=50
 hikey=50
 seq_length=12
@@ -1179,7 +1179,7 @@ seq_position=5
 pitch_keycenter=50
 
 <region>
-sample=..\Samples\flam\d4_flam_rr2.wav
+sample=..\Samples\flam\d4_flam_rr2.flac
 lokey=50
 hikey=50
 seq_length=12
@@ -1187,7 +1187,7 @@ seq_position=6
 pitch_keycenter=50
 
 <region>
-sample=..\Samples\flam\d4_flam_rr1.wav
+sample=..\Samples\flam\d4_flam_rr1.flac
 lokey=50
 hikey=50
 seq_length=12
@@ -1195,7 +1195,7 @@ seq_position=7
 pitch_keycenter=50
 
 <region>
-sample=..\Samples\flam\d4_flam_rr2.wav
+sample=..\Samples\flam\d4_flam_rr2.flac
 lokey=50
 hikey=50
 seq_length=12
@@ -1203,7 +1203,7 @@ seq_position=8
 pitch_keycenter=50
 
 <region>
-sample=..\Samples\flam\d4_flam_rr1.wav
+sample=..\Samples\flam\d4_flam_rr1.flac
 lokey=50
 hikey=50
 seq_length=12
@@ -1211,7 +1211,7 @@ seq_position=9
 pitch_keycenter=50
 
 <region>
-sample=..\Samples\flam\d4_flam_rr2.wav
+sample=..\Samples\flam\d4_flam_rr2.flac
 lokey=50
 hikey=50
 seq_length=12
@@ -1219,7 +1219,7 @@ seq_position=10
 pitch_keycenter=50
 
 <region>
-sample=..\Samples\flam\d4_flam_rr1.wav
+sample=..\Samples\flam\d4_flam_rr1.flac
 lokey=50
 hikey=50
 seq_length=12
@@ -1227,7 +1227,7 @@ seq_position=11
 pitch_keycenter=50
 
 <region>
-sample=..\Samples\flam\d4_flam_rr2.wav
+sample=..\Samples\flam\d4_flam_rr2.flac
 lokey=50
 hikey=50
 seq_length=12
@@ -1235,14 +1235,14 @@ seq_position=12
 pitch_keycenter=50
 
 <region>
-sample=..\Samples\flam\eb4_flam_rr1.wav
+sample=..\Samples\flam\eb4_flam_rr1.flac
 lokey=51
 hikey=51
 seq_length=12
 pitch_keycenter=51
 
 <region>
-sample=..\Samples\flam\eb4_flam_rr2.wav
+sample=..\Samples\flam\eb4_flam_rr2.flac
 lokey=51
 hikey=51
 seq_length=12
@@ -1250,7 +1250,7 @@ seq_position=2
 pitch_keycenter=51
 
 <region>
-sample=..\Samples\flam\eb4_flam_rr1.wav
+sample=..\Samples\flam\eb4_flam_rr1.flac
 lokey=51
 hikey=51
 seq_length=12
@@ -1258,7 +1258,7 @@ seq_position=3
 pitch_keycenter=51
 
 <region>
-sample=..\Samples\flam\eb4_flam_rr2.wav
+sample=..\Samples\flam\eb4_flam_rr2.flac
 lokey=51
 hikey=51
 seq_length=12
@@ -1266,7 +1266,7 @@ seq_position=4
 pitch_keycenter=51
 
 <region>
-sample=..\Samples\flam\eb4_flam_rr1.wav
+sample=..\Samples\flam\eb4_flam_rr1.flac
 lokey=51
 hikey=51
 seq_length=12
@@ -1274,7 +1274,7 @@ seq_position=5
 pitch_keycenter=51
 
 <region>
-sample=..\Samples\flam\eb4_flam_rr2.wav
+sample=..\Samples\flam\eb4_flam_rr2.flac
 lokey=51
 hikey=51
 seq_length=12
@@ -1282,7 +1282,7 @@ seq_position=6
 pitch_keycenter=51
 
 <region>
-sample=..\Samples\flam\eb4_flam_rr1.wav
+sample=..\Samples\flam\eb4_flam_rr1.flac
 lokey=51
 hikey=51
 seq_length=12
@@ -1290,7 +1290,7 @@ seq_position=7
 pitch_keycenter=51
 
 <region>
-sample=..\Samples\flam\eb4_flam_rr2.wav
+sample=..\Samples\flam\eb4_flam_rr2.flac
 lokey=51
 hikey=51
 seq_length=12
@@ -1298,7 +1298,7 @@ seq_position=8
 pitch_keycenter=51
 
 <region>
-sample=..\Samples\flam\eb4_flam_rr1.wav
+sample=..\Samples\flam\eb4_flam_rr1.flac
 lokey=51
 hikey=51
 seq_length=12
@@ -1306,7 +1306,7 @@ seq_position=9
 pitch_keycenter=51
 
 <region>
-sample=..\Samples\flam\eb4_flam_rr2.wav
+sample=..\Samples\flam\eb4_flam_rr2.flac
 lokey=51
 hikey=51
 seq_length=12
@@ -1314,7 +1314,7 @@ seq_position=10
 pitch_keycenter=51
 
 <region>
-sample=..\Samples\flam\eb4_flam_rr1.wav
+sample=..\Samples\flam\eb4_flam_rr1.flac
 lokey=51
 hikey=51
 seq_length=12
@@ -1322,7 +1322,7 @@ seq_position=11
 pitch_keycenter=51
 
 <region>
-sample=..\Samples\flam\eb4_flam_rr2.wav
+sample=..\Samples\flam\eb4_flam_rr2.flac
 lokey=51
 hikey=51
 seq_length=12
@@ -1330,14 +1330,14 @@ seq_position=12
 pitch_keycenter=51
 
 <region>
-sample=..\Samples\flam\e4_flam_rr1.wav
+sample=..\Samples\flam\e4_flam_rr1.flac
 lokey=52
 hikey=52
 seq_length=12
 pitch_keycenter=52
 
 <region>
-sample=..\Samples\flam\e4_flam_rr2.wav
+sample=..\Samples\flam\e4_flam_rr2.flac
 lokey=52
 hikey=52
 seq_length=12
@@ -1345,7 +1345,7 @@ seq_position=2
 pitch_keycenter=52
 
 <region>
-sample=..\Samples\flam\e4_flam_rr1.wav
+sample=..\Samples\flam\e4_flam_rr1.flac
 lokey=52
 hikey=52
 seq_length=12
@@ -1353,7 +1353,7 @@ seq_position=3
 pitch_keycenter=52
 
 <region>
-sample=..\Samples\flam\e4_flam_rr2.wav
+sample=..\Samples\flam\e4_flam_rr2.flac
 lokey=52
 hikey=52
 seq_length=12
@@ -1361,7 +1361,7 @@ seq_position=4
 pitch_keycenter=52
 
 <region>
-sample=..\Samples\flam\e4_flam_rr1.wav
+sample=..\Samples\flam\e4_flam_rr1.flac
 lokey=52
 hikey=52
 seq_length=12
@@ -1369,7 +1369,7 @@ seq_position=5
 pitch_keycenter=52
 
 <region>
-sample=..\Samples\flam\e4_flam_rr2.wav
+sample=..\Samples\flam\e4_flam_rr2.flac
 lokey=52
 hikey=52
 seq_length=12
@@ -1377,7 +1377,7 @@ seq_position=6
 pitch_keycenter=52
 
 <region>
-sample=..\Samples\flam\e4_flam_rr1.wav
+sample=..\Samples\flam\e4_flam_rr1.flac
 lokey=52
 hikey=52
 seq_length=12
@@ -1385,7 +1385,7 @@ seq_position=7
 pitch_keycenter=52
 
 <region>
-sample=..\Samples\flam\e4_flam_rr2.wav
+sample=..\Samples\flam\e4_flam_rr2.flac
 lokey=52
 hikey=52
 seq_length=12
@@ -1393,7 +1393,7 @@ seq_position=8
 pitch_keycenter=52
 
 <region>
-sample=..\Samples\flam\e4_flam_rr1.wav
+sample=..\Samples\flam\e4_flam_rr1.flac
 lokey=52
 hikey=52
 seq_length=12
@@ -1401,7 +1401,7 @@ seq_position=9
 pitch_keycenter=52
 
 <region>
-sample=..\Samples\flam\e4_flam_rr2.wav
+sample=..\Samples\flam\e4_flam_rr2.flac
 lokey=52
 hikey=52
 seq_length=12
@@ -1409,7 +1409,7 @@ seq_position=10
 pitch_keycenter=52
 
 <region>
-sample=..\Samples\flam\e4_flam_rr1.wav
+sample=..\Samples\flam\e4_flam_rr1.flac
 lokey=52
 hikey=52
 seq_length=12
@@ -1417,7 +1417,7 @@ seq_position=11
 pitch_keycenter=52
 
 <region>
-sample=..\Samples\flam\e4_flam_rr2.wav
+sample=..\Samples\flam\e4_flam_rr2.flac
 lokey=52
 hikey=52
 seq_length=12
@@ -1425,14 +1425,14 @@ seq_position=12
 pitch_keycenter=52
 
 <region>
-sample=..\Samples\flam\f4_flam_rr1.wav
+sample=..\Samples\flam\f4_flam_rr1.flac
 lokey=53
 hikey=53
 seq_length=12
 pitch_keycenter=53
 
 <region>
-sample=..\Samples\flam\f4_flam_rr2.wav
+sample=..\Samples\flam\f4_flam_rr2.flac
 lokey=53
 hikey=53
 seq_length=12
@@ -1440,7 +1440,7 @@ seq_position=2
 pitch_keycenter=53
 
 <region>
-sample=..\Samples\flam\f4_flam_rr1.wav
+sample=..\Samples\flam\f4_flam_rr1.flac
 lokey=53
 hikey=53
 seq_length=12
@@ -1448,7 +1448,7 @@ seq_position=3
 pitch_keycenter=53
 
 <region>
-sample=..\Samples\flam\f4_flam_rr2.wav
+sample=..\Samples\flam\f4_flam_rr2.flac
 lokey=53
 hikey=53
 seq_length=12
@@ -1456,7 +1456,7 @@ seq_position=4
 pitch_keycenter=53
 
 <region>
-sample=..\Samples\flam\f4_flam_rr1.wav
+sample=..\Samples\flam\f4_flam_rr1.flac
 lokey=53
 hikey=53
 seq_length=12
@@ -1464,7 +1464,7 @@ seq_position=5
 pitch_keycenter=53
 
 <region>
-sample=..\Samples\flam\f4_flam_rr2.wav
+sample=..\Samples\flam\f4_flam_rr2.flac
 lokey=53
 hikey=53
 seq_length=12
@@ -1472,7 +1472,7 @@ seq_position=6
 pitch_keycenter=53
 
 <region>
-sample=..\Samples\flam\f4_flam_rr1.wav
+sample=..\Samples\flam\f4_flam_rr1.flac
 lokey=53
 hikey=53
 seq_length=12
@@ -1480,7 +1480,7 @@ seq_position=7
 pitch_keycenter=53
 
 <region>
-sample=..\Samples\flam\f4_flam_rr2.wav
+sample=..\Samples\flam\f4_flam_rr2.flac
 lokey=53
 hikey=53
 seq_length=12
@@ -1488,7 +1488,7 @@ seq_position=8
 pitch_keycenter=53
 
 <region>
-sample=..\Samples\flam\f4_flam_rr1.wav
+sample=..\Samples\flam\f4_flam_rr1.flac
 lokey=53
 hikey=53
 seq_length=12
@@ -1496,7 +1496,7 @@ seq_position=9
 pitch_keycenter=53
 
 <region>
-sample=..\Samples\flam\f4_flam_rr2.wav
+sample=..\Samples\flam\f4_flam_rr2.flac
 lokey=53
 hikey=53
 seq_length=12
@@ -1504,7 +1504,7 @@ seq_position=10
 pitch_keycenter=53
 
 <region>
-sample=..\Samples\flam\f4_flam_rr1.wav
+sample=..\Samples\flam\f4_flam_rr1.flac
 lokey=53
 hikey=53
 seq_length=12
@@ -1512,7 +1512,7 @@ seq_position=11
 pitch_keycenter=53
 
 <region>
-sample=..\Samples\flam\f4_flam_rr2.wav
+sample=..\Samples\flam\f4_flam_rr2.flac
 lokey=53
 hikey=53
 seq_length=12
@@ -1520,14 +1520,14 @@ seq_position=12
 pitch_keycenter=53
 
 <region>
-sample=..\Samples\flam\gb4_flam_rr1.wav
+sample=..\Samples\flam\gb4_flam_rr1.flac
 lokey=54
 hikey=54
 seq_length=12
 pitch_keycenter=54
 
 <region>
-sample=..\Samples\flam\gb4_flam_rr2.wav
+sample=..\Samples\flam\gb4_flam_rr2.flac
 lokey=54
 hikey=54
 seq_length=12
@@ -1535,7 +1535,7 @@ seq_position=2
 pitch_keycenter=54
 
 <region>
-sample=..\Samples\flam\gb4_flam_rr1.wav
+sample=..\Samples\flam\gb4_flam_rr1.flac
 lokey=54
 hikey=54
 seq_length=12
@@ -1543,7 +1543,7 @@ seq_position=3
 pitch_keycenter=54
 
 <region>
-sample=..\Samples\flam\gb4_flam_rr2.wav
+sample=..\Samples\flam\gb4_flam_rr2.flac
 lokey=54
 hikey=54
 seq_length=12
@@ -1551,7 +1551,7 @@ seq_position=4
 pitch_keycenter=54
 
 <region>
-sample=..\Samples\flam\gb4_flam_rr1.wav
+sample=..\Samples\flam\gb4_flam_rr1.flac
 lokey=54
 hikey=54
 seq_length=12
@@ -1559,7 +1559,7 @@ seq_position=5
 pitch_keycenter=54
 
 <region>
-sample=..\Samples\flam\gb4_flam_rr2.wav
+sample=..\Samples\flam\gb4_flam_rr2.flac
 lokey=54
 hikey=54
 seq_length=12
@@ -1567,7 +1567,7 @@ seq_position=6
 pitch_keycenter=54
 
 <region>
-sample=..\Samples\flam\gb4_flam_rr1.wav
+sample=..\Samples\flam\gb4_flam_rr1.flac
 lokey=54
 hikey=54
 seq_length=12
@@ -1575,7 +1575,7 @@ seq_position=7
 pitch_keycenter=54
 
 <region>
-sample=..\Samples\flam\gb4_flam_rr2.wav
+sample=..\Samples\flam\gb4_flam_rr2.flac
 lokey=54
 hikey=54
 seq_length=12
@@ -1583,7 +1583,7 @@ seq_position=8
 pitch_keycenter=54
 
 <region>
-sample=..\Samples\flam\gb4_flam_rr1.wav
+sample=..\Samples\flam\gb4_flam_rr1.flac
 lokey=54
 hikey=54
 seq_length=12
@@ -1591,7 +1591,7 @@ seq_position=9
 pitch_keycenter=54
 
 <region>
-sample=..\Samples\flam\gb4_flam_rr2.wav
+sample=..\Samples\flam\gb4_flam_rr2.flac
 lokey=54
 hikey=54
 seq_length=12
@@ -1599,7 +1599,7 @@ seq_position=10
 pitch_keycenter=54
 
 <region>
-sample=..\Samples\flam\gb4_flam_rr1.wav
+sample=..\Samples\flam\gb4_flam_rr1.flac
 lokey=54
 hikey=54
 seq_length=12
@@ -1607,7 +1607,7 @@ seq_position=11
 pitch_keycenter=54
 
 <region>
-sample=..\Samples\flam\gb4_flam_rr2.wav
+sample=..\Samples\flam\gb4_flam_rr2.flac
 lokey=54
 hikey=54
 seq_length=12
@@ -1615,14 +1615,14 @@ seq_position=12
 pitch_keycenter=54
 
 <region>
-sample=..\Samples\flam\g4_flam_rr1.wav
+sample=..\Samples\flam\g4_flam_rr1.flac
 lokey=55
 hikey=55
 seq_length=12
 pitch_keycenter=55
 
 <region>
-sample=..\Samples\flam\g4_flam_rr2.wav
+sample=..\Samples\flam\g4_flam_rr2.flac
 lokey=55
 hikey=55
 seq_length=12
@@ -1630,7 +1630,7 @@ seq_position=2
 pitch_keycenter=55
 
 <region>
-sample=..\Samples\flam\g4_flam_rr1.wav
+sample=..\Samples\flam\g4_flam_rr1.flac
 lokey=55
 hikey=55
 seq_length=12
@@ -1638,7 +1638,7 @@ seq_position=3
 pitch_keycenter=55
 
 <region>
-sample=..\Samples\flam\g4_flam_rr2.wav
+sample=..\Samples\flam\g4_flam_rr2.flac
 lokey=55
 hikey=55
 seq_length=12
@@ -1646,7 +1646,7 @@ seq_position=4
 pitch_keycenter=55
 
 <region>
-sample=..\Samples\flam\g4_flam_rr1.wav
+sample=..\Samples\flam\g4_flam_rr1.flac
 lokey=55
 hikey=55
 seq_length=12
@@ -1654,7 +1654,7 @@ seq_position=5
 pitch_keycenter=55
 
 <region>
-sample=..\Samples\flam\g4_flam_rr2.wav
+sample=..\Samples\flam\g4_flam_rr2.flac
 lokey=55
 hikey=55
 seq_length=12
@@ -1662,7 +1662,7 @@ seq_position=6
 pitch_keycenter=55
 
 <region>
-sample=..\Samples\flam\g4_flam_rr1.wav
+sample=..\Samples\flam\g4_flam_rr1.flac
 lokey=55
 hikey=55
 seq_length=12
@@ -1670,7 +1670,7 @@ seq_position=7
 pitch_keycenter=55
 
 <region>
-sample=..\Samples\flam\g4_flam_rr2.wav
+sample=..\Samples\flam\g4_flam_rr2.flac
 lokey=55
 hikey=55
 seq_length=12
@@ -1678,7 +1678,7 @@ seq_position=8
 pitch_keycenter=55
 
 <region>
-sample=..\Samples\flam\g4_flam_rr1.wav
+sample=..\Samples\flam\g4_flam_rr1.flac
 lokey=55
 hikey=55
 seq_length=12
@@ -1686,7 +1686,7 @@ seq_position=9
 pitch_keycenter=55
 
 <region>
-sample=..\Samples\flam\g4_flam_rr2.wav
+sample=..\Samples\flam\g4_flam_rr2.flac
 lokey=55
 hikey=55
 seq_length=12
@@ -1694,7 +1694,7 @@ seq_position=10
 pitch_keycenter=55
 
 <region>
-sample=..\Samples\flam\g4_flam_rr1.wav
+sample=..\Samples\flam\g4_flam_rr1.flac
 lokey=55
 hikey=55
 seq_length=12
@@ -1702,7 +1702,7 @@ seq_position=11
 pitch_keycenter=55
 
 <region>
-sample=..\Samples\flam\g4_flam_rr2.wav
+sample=..\Samples\flam\g4_flam_rr2.flac
 lokey=55
 hikey=55
 seq_length=12
@@ -1710,14 +1710,14 @@ seq_position=12
 pitch_keycenter=55
 
 <region>
-sample=..\Samples\flam\ab4_flam_rr1.wav
+sample=..\Samples\flam\ab4_flam_rr1.flac
 lokey=56
 hikey=56
 seq_length=12
 pitch_keycenter=56
 
 <region>
-sample=..\Samples\flam\ab4_flam_rr2.wav
+sample=..\Samples\flam\ab4_flam_rr2.flac
 lokey=56
 hikey=56
 seq_length=12
@@ -1725,7 +1725,7 @@ seq_position=2
 pitch_keycenter=56
 
 <region>
-sample=..\Samples\flam\ab4_flam_rr1.wav
+sample=..\Samples\flam\ab4_flam_rr1.flac
 lokey=56
 hikey=56
 seq_length=12
@@ -1733,7 +1733,7 @@ seq_position=3
 pitch_keycenter=56
 
 <region>
-sample=..\Samples\flam\ab4_flam_rr2.wav
+sample=..\Samples\flam\ab4_flam_rr2.flac
 lokey=56
 hikey=56
 seq_length=12
@@ -1741,7 +1741,7 @@ seq_position=4
 pitch_keycenter=56
 
 <region>
-sample=..\Samples\flam\ab4_flam_rr1.wav
+sample=..\Samples\flam\ab4_flam_rr1.flac
 lokey=56
 hikey=56
 seq_length=12
@@ -1749,7 +1749,7 @@ seq_position=5
 pitch_keycenter=56
 
 <region>
-sample=..\Samples\flam\ab4_flam_rr2.wav
+sample=..\Samples\flam\ab4_flam_rr2.flac
 lokey=56
 hikey=56
 seq_length=12
@@ -1757,7 +1757,7 @@ seq_position=6
 pitch_keycenter=56
 
 <region>
-sample=..\Samples\flam\ab4_flam_rr1.wav
+sample=..\Samples\flam\ab4_flam_rr1.flac
 lokey=56
 hikey=56
 seq_length=12
@@ -1765,7 +1765,7 @@ seq_position=7
 pitch_keycenter=56
 
 <region>
-sample=..\Samples\flam\ab4_flam_rr2.wav
+sample=..\Samples\flam\ab4_flam_rr2.flac
 lokey=56
 hikey=56
 seq_length=12
@@ -1773,7 +1773,7 @@ seq_position=8
 pitch_keycenter=56
 
 <region>
-sample=..\Samples\flam\ab4_flam_rr1.wav
+sample=..\Samples\flam\ab4_flam_rr1.flac
 lokey=56
 hikey=56
 seq_length=12
@@ -1781,7 +1781,7 @@ seq_position=9
 pitch_keycenter=56
 
 <region>
-sample=..\Samples\flam\ab4_flam_rr2.wav
+sample=..\Samples\flam\ab4_flam_rr2.flac
 lokey=56
 hikey=56
 seq_length=12
@@ -1789,7 +1789,7 @@ seq_position=10
 pitch_keycenter=56
 
 <region>
-sample=..\Samples\flam\ab4_flam_rr1.wav
+sample=..\Samples\flam\ab4_flam_rr1.flac
 lokey=56
 hikey=56
 seq_length=12
@@ -1797,7 +1797,7 @@ seq_position=11
 pitch_keycenter=56
 
 <region>
-sample=..\Samples\flam\ab4_flam_rr2.wav
+sample=..\Samples\flam\ab4_flam_rr2.flac
 lokey=56
 hikey=56
 seq_length=12
@@ -1805,14 +1805,14 @@ seq_position=12
 pitch_keycenter=56
 
 <region>
-sample=..\Samples\flam\a4_flam_rr1.wav
+sample=..\Samples\flam\a4_flam_rr1.flac
 lokey=57
 hikey=57
 seq_length=12
 pitch_keycenter=57
 
 <region>
-sample=..\Samples\flam\a4_flam_rr2.wav
+sample=..\Samples\flam\a4_flam_rr2.flac
 lokey=57
 hikey=57
 seq_length=12
@@ -1820,7 +1820,7 @@ seq_position=2
 pitch_keycenter=57
 
 <region>
-sample=..\Samples\flam\a4_flam_rr1.wav
+sample=..\Samples\flam\a4_flam_rr1.flac
 lokey=57
 hikey=57
 seq_length=12
@@ -1828,7 +1828,7 @@ seq_position=3
 pitch_keycenter=57
 
 <region>
-sample=..\Samples\flam\a4_flam_rr2.wav
+sample=..\Samples\flam\a4_flam_rr2.flac
 lokey=57
 hikey=57
 seq_length=12
@@ -1836,7 +1836,7 @@ seq_position=4
 pitch_keycenter=57
 
 <region>
-sample=..\Samples\flam\a4_flam_rr1.wav
+sample=..\Samples\flam\a4_flam_rr1.flac
 lokey=57
 hikey=57
 seq_length=12
@@ -1844,7 +1844,7 @@ seq_position=5
 pitch_keycenter=57
 
 <region>
-sample=..\Samples\flam\a4_flam_rr2.wav
+sample=..\Samples\flam\a4_flam_rr2.flac
 lokey=57
 hikey=57
 seq_length=12
@@ -1852,7 +1852,7 @@ seq_position=6
 pitch_keycenter=57
 
 <region>
-sample=..\Samples\flam\a4_flam_rr1.wav
+sample=..\Samples\flam\a4_flam_rr1.flac
 lokey=57
 hikey=57
 seq_length=12
@@ -1860,7 +1860,7 @@ seq_position=7
 pitch_keycenter=57
 
 <region>
-sample=..\Samples\flam\a4_flam_rr2.wav
+sample=..\Samples\flam\a4_flam_rr2.flac
 lokey=57
 hikey=57
 seq_length=12
@@ -1868,7 +1868,7 @@ seq_position=8
 pitch_keycenter=57
 
 <region>
-sample=..\Samples\flam\a4_flam_rr1.wav
+sample=..\Samples\flam\a4_flam_rr1.flac
 lokey=57
 hikey=57
 seq_length=12
@@ -1876,7 +1876,7 @@ seq_position=9
 pitch_keycenter=57
 
 <region>
-sample=..\Samples\flam\a4_flam_rr2.wav
+sample=..\Samples\flam\a4_flam_rr2.flac
 lokey=57
 hikey=57
 seq_length=12
@@ -1884,7 +1884,7 @@ seq_position=10
 pitch_keycenter=57
 
 <region>
-sample=..\Samples\flam\a4_flam_rr1.wav
+sample=..\Samples\flam\a4_flam_rr1.flac
 lokey=57
 hikey=57
 seq_length=12
@@ -1892,7 +1892,7 @@ seq_position=11
 pitch_keycenter=57
 
 <region>
-sample=..\Samples\flam\a4_flam_rr2.wav
+sample=..\Samples\flam\a4_flam_rr2.flac
 lokey=57
 hikey=57
 seq_length=12
@@ -1900,14 +1900,14 @@ seq_position=12
 pitch_keycenter=57
 
 <region>
-sample=..\Samples\flam\bb4_flam_rr1.wav
+sample=..\Samples\flam\bb4_flam_rr1.flac
 lokey=58
 hikey=58
 seq_length=12
 pitch_keycenter=58
 
 <region>
-sample=..\Samples\flam\bb4_flam_rr2.wav
+sample=..\Samples\flam\bb4_flam_rr2.flac
 lokey=58
 hikey=58
 seq_length=12
@@ -1915,7 +1915,7 @@ seq_position=2
 pitch_keycenter=58
 
 <region>
-sample=..\Samples\flam\bb4_flam_rr1.wav
+sample=..\Samples\flam\bb4_flam_rr1.flac
 lokey=58
 hikey=58
 seq_length=12
@@ -1923,7 +1923,7 @@ seq_position=3
 pitch_keycenter=58
 
 <region>
-sample=..\Samples\flam\bb4_flam_rr2.wav
+sample=..\Samples\flam\bb4_flam_rr2.flac
 lokey=58
 hikey=58
 seq_length=12
@@ -1931,7 +1931,7 @@ seq_position=4
 pitch_keycenter=58
 
 <region>
-sample=..\Samples\flam\bb4_flam_rr1.wav
+sample=..\Samples\flam\bb4_flam_rr1.flac
 lokey=58
 hikey=58
 seq_length=12
@@ -1939,7 +1939,7 @@ seq_position=5
 pitch_keycenter=58
 
 <region>
-sample=..\Samples\flam\bb4_flam_rr2.wav
+sample=..\Samples\flam\bb4_flam_rr2.flac
 lokey=58
 hikey=58
 seq_length=12
@@ -1947,7 +1947,7 @@ seq_position=6
 pitch_keycenter=58
 
 <region>
-sample=..\Samples\flam\bb4_flam_rr1.wav
+sample=..\Samples\flam\bb4_flam_rr1.flac
 lokey=58
 hikey=58
 seq_length=12
@@ -1955,7 +1955,7 @@ seq_position=7
 pitch_keycenter=58
 
 <region>
-sample=..\Samples\flam\bb4_flam_rr2.wav
+sample=..\Samples\flam\bb4_flam_rr2.flac
 lokey=58
 hikey=58
 seq_length=12
@@ -1963,7 +1963,7 @@ seq_position=8
 pitch_keycenter=58
 
 <region>
-sample=..\Samples\flam\bb4_flam_rr1.wav
+sample=..\Samples\flam\bb4_flam_rr1.flac
 lokey=58
 hikey=58
 seq_length=12
@@ -1971,7 +1971,7 @@ seq_position=9
 pitch_keycenter=58
 
 <region>
-sample=..\Samples\flam\bb4_flam_rr2.wav
+sample=..\Samples\flam\bb4_flam_rr2.flac
 lokey=58
 hikey=58
 seq_length=12
@@ -1979,7 +1979,7 @@ seq_position=10
 pitch_keycenter=58
 
 <region>
-sample=..\Samples\flam\bb4_flam_rr1.wav
+sample=..\Samples\flam\bb4_flam_rr1.flac
 lokey=58
 hikey=58
 seq_length=12
@@ -1987,7 +1987,7 @@ seq_position=11
 pitch_keycenter=58
 
 <region>
-sample=..\Samples\flam\bb4_flam_rr2.wav
+sample=..\Samples\flam\bb4_flam_rr2.flac
 lokey=58
 hikey=58
 seq_length=12
@@ -1995,14 +1995,14 @@ seq_position=12
 pitch_keycenter=58
 
 <region>
-sample=..\Samples\flam\b4_flam_rr1.wav
+sample=..\Samples\flam\b4_flam_rr1.flac
 lokey=59
 hikey=59
 seq_length=12
 pitch_keycenter=59
 
 <region>
-sample=..\Samples\flam\b4_flam_rr2.wav
+sample=..\Samples\flam\b4_flam_rr2.flac
 lokey=59
 hikey=59
 seq_length=12
@@ -2010,7 +2010,7 @@ seq_position=2
 pitch_keycenter=59
 
 <region>
-sample=..\Samples\flam\b4_flam_rr1.wav
+sample=..\Samples\flam\b4_flam_rr1.flac
 lokey=59
 hikey=59
 seq_length=12
@@ -2018,7 +2018,7 @@ seq_position=3
 pitch_keycenter=59
 
 <region>
-sample=..\Samples\flam\b4_flam_rr2.wav
+sample=..\Samples\flam\b4_flam_rr2.flac
 lokey=59
 hikey=59
 seq_length=12
@@ -2026,7 +2026,7 @@ seq_position=4
 pitch_keycenter=59
 
 <region>
-sample=..\Samples\flam\b4_flam_rr1.wav
+sample=..\Samples\flam\b4_flam_rr1.flac
 lokey=59
 hikey=59
 seq_length=12
@@ -2034,7 +2034,7 @@ seq_position=5
 pitch_keycenter=59
 
 <region>
-sample=..\Samples\flam\b4_flam_rr2.wav
+sample=..\Samples\flam\b4_flam_rr2.flac
 lokey=59
 hikey=59
 seq_length=12
@@ -2042,7 +2042,7 @@ seq_position=6
 pitch_keycenter=59
 
 <region>
-sample=..\Samples\flam\b4_flam_rr1.wav
+sample=..\Samples\flam\b4_flam_rr1.flac
 lokey=59
 hikey=59
 seq_length=12
@@ -2050,7 +2050,7 @@ seq_position=7
 pitch_keycenter=59
 
 <region>
-sample=..\Samples\flam\b4_flam_rr2.wav
+sample=..\Samples\flam\b4_flam_rr2.flac
 lokey=59
 hikey=59
 seq_length=12
@@ -2058,7 +2058,7 @@ seq_position=8
 pitch_keycenter=59
 
 <region>
-sample=..\Samples\flam\b4_flam_rr1.wav
+sample=..\Samples\flam\b4_flam_rr1.flac
 lokey=59
 hikey=59
 seq_length=12
@@ -2066,7 +2066,7 @@ seq_position=9
 pitch_keycenter=59
 
 <region>
-sample=..\Samples\flam\b4_flam_rr2.wav
+sample=..\Samples\flam\b4_flam_rr2.flac
 lokey=59
 hikey=59
 seq_length=12
@@ -2074,7 +2074,7 @@ seq_position=10
 pitch_keycenter=59
 
 <region>
-sample=..\Samples\flam\b4_flam_rr1.wav
+sample=..\Samples\flam\b4_flam_rr1.flac
 lokey=59
 hikey=59
 seq_length=12
@@ -2082,7 +2082,7 @@ seq_position=11
 pitch_keycenter=59
 
 <region>
-sample=..\Samples\flam\b4_flam_rr2.wav
+sample=..\Samples\flam\b4_flam_rr2.flac
 lokey=59
 hikey=59
 seq_length=12
@@ -2090,97 +2090,97 @@ seq_position=12
 pitch_keycenter=59
 
 <region>
-sample=..\Samples\flam\c5_flam_rr1.wav
+sample=..\Samples\flam\c5_flam_rr1.flac
 lokey=60
 hikey=60
 seq_length=12
 
 <region>
-sample=..\Samples\flam\c5_flam_rr2.wav
+sample=..\Samples\flam\c5_flam_rr2.flac
 lokey=60
 hikey=60
 seq_length=12
 seq_position=2
 
 <region>
-sample=..\Samples\flam\c5_flam_rr1.wav
+sample=..\Samples\flam\c5_flam_rr1.flac
 lokey=60
 hikey=60
 seq_length=12
 seq_position=3
 
 <region>
-sample=..\Samples\flam\c5_flam_rr2.wav
+sample=..\Samples\flam\c5_flam_rr2.flac
 lokey=60
 hikey=60
 seq_length=12
 seq_position=4
 
 <region>
-sample=..\Samples\flam\c5_flam_rr1.wav
+sample=..\Samples\flam\c5_flam_rr1.flac
 lokey=60
 hikey=60
 seq_length=12
 seq_position=5
 
 <region>
-sample=..\Samples\flam\c5_flam_rr2.wav
+sample=..\Samples\flam\c5_flam_rr2.flac
 lokey=60
 hikey=60
 seq_length=12
 seq_position=6
 
 <region>
-sample=..\Samples\flam\c5_flam_rr1.wav
+sample=..\Samples\flam\c5_flam_rr1.flac
 lokey=60
 hikey=60
 seq_length=12
 seq_position=7
 
 <region>
-sample=..\Samples\flam\c5_flam_rr2.wav
+sample=..\Samples\flam\c5_flam_rr2.flac
 lokey=60
 hikey=60
 seq_length=12
 seq_position=8
 
 <region>
-sample=..\Samples\flam\c5_flam_rr1.wav
+sample=..\Samples\flam\c5_flam_rr1.flac
 lokey=60
 hikey=60
 seq_length=12
 seq_position=9
 
 <region>
-sample=..\Samples\flam\c5_flam_rr2.wav
+sample=..\Samples\flam\c5_flam_rr2.flac
 lokey=60
 hikey=60
 seq_length=12
 seq_position=10
 
 <region>
-sample=..\Samples\flam\c5_flam_rr1.wav
+sample=..\Samples\flam\c5_flam_rr1.flac
 lokey=60
 hikey=60
 seq_length=12
 seq_position=11
 
 <region>
-sample=..\Samples\flam\c5_flam_rr2.wav
+sample=..\Samples\flam\c5_flam_rr2.flac
 lokey=60
 hikey=60
 seq_length=12
 seq_position=12
 
 <region>
-sample=..\Samples\flam\db5_flam_rr1.wav
+sample=..\Samples\flam\db5_flam_rr1.flac
 lokey=61
 hikey=61
 seq_length=12
 pitch_keycenter=61
 
 <region>
-sample=..\Samples\flam\db5_flam_rr2.wav
+sample=..\Samples\flam\db5_flam_rr2.flac
 lokey=61
 hikey=61
 seq_length=12
@@ -2188,7 +2188,7 @@ seq_position=2
 pitch_keycenter=61
 
 <region>
-sample=..\Samples\flam\db5_flam_rr1.wav
+sample=..\Samples\flam\db5_flam_rr1.flac
 lokey=61
 hikey=61
 seq_length=12
@@ -2196,7 +2196,7 @@ seq_position=3
 pitch_keycenter=61
 
 <region>
-sample=..\Samples\flam\db5_flam_rr2.wav
+sample=..\Samples\flam\db5_flam_rr2.flac
 lokey=61
 hikey=61
 seq_length=12
@@ -2204,7 +2204,7 @@ seq_position=4
 pitch_keycenter=61
 
 <region>
-sample=..\Samples\flam\db5_flam_rr1.wav
+sample=..\Samples\flam\db5_flam_rr1.flac
 lokey=61
 hikey=61
 seq_length=12
@@ -2212,7 +2212,7 @@ seq_position=5
 pitch_keycenter=61
 
 <region>
-sample=..\Samples\flam\db5_flam_rr2.wav
+sample=..\Samples\flam\db5_flam_rr2.flac
 lokey=61
 hikey=61
 seq_length=12
@@ -2220,7 +2220,7 @@ seq_position=6
 pitch_keycenter=61
 
 <region>
-sample=..\Samples\flam\db5_flam_rr1.wav
+sample=..\Samples\flam\db5_flam_rr1.flac
 lokey=61
 hikey=61
 seq_length=12
@@ -2228,7 +2228,7 @@ seq_position=7
 pitch_keycenter=61
 
 <region>
-sample=..\Samples\flam\db5_flam_rr2.wav
+sample=..\Samples\flam\db5_flam_rr2.flac
 lokey=61
 hikey=61
 seq_length=12
@@ -2236,7 +2236,7 @@ seq_position=8
 pitch_keycenter=61
 
 <region>
-sample=..\Samples\flam\db5_flam_rr1.wav
+sample=..\Samples\flam\db5_flam_rr1.flac
 lokey=61
 hikey=61
 seq_length=12
@@ -2244,7 +2244,7 @@ seq_position=9
 pitch_keycenter=61
 
 <region>
-sample=..\Samples\flam\db5_flam_rr2.wav
+sample=..\Samples\flam\db5_flam_rr2.flac
 lokey=61
 hikey=61
 seq_length=12
@@ -2252,7 +2252,7 @@ seq_position=10
 pitch_keycenter=61
 
 <region>
-sample=..\Samples\flam\db5_flam_rr1.wav
+sample=..\Samples\flam\db5_flam_rr1.flac
 lokey=61
 hikey=61
 seq_length=12
@@ -2260,7 +2260,7 @@ seq_position=11
 pitch_keycenter=61
 
 <region>
-sample=..\Samples\flam\db5_flam_rr2.wav
+sample=..\Samples\flam\db5_flam_rr2.flac
 lokey=61
 hikey=61
 seq_length=12
@@ -2268,14 +2268,14 @@ seq_position=12
 pitch_keycenter=61
 
 <region>
-sample=..\Samples\flam\d5_flam_rr1.wav
+sample=..\Samples\flam\d5_flam_rr1.flac
 lokey=62
 hikey=62
 seq_length=12
 pitch_keycenter=62
 
 <region>
-sample=..\Samples\flam\d5_flam_rr2.wav
+sample=..\Samples\flam\d5_flam_rr2.flac
 lokey=62
 hikey=62
 seq_length=12
@@ -2283,7 +2283,7 @@ seq_position=2
 pitch_keycenter=62
 
 <region>
-sample=..\Samples\flam\d5_flam_rr1.wav
+sample=..\Samples\flam\d5_flam_rr1.flac
 lokey=62
 hikey=62
 seq_length=12
@@ -2291,7 +2291,7 @@ seq_position=3
 pitch_keycenter=62
 
 <region>
-sample=..\Samples\flam\d5_flam_rr2.wav
+sample=..\Samples\flam\d5_flam_rr2.flac
 lokey=62
 hikey=62
 seq_length=12
@@ -2299,7 +2299,7 @@ seq_position=4
 pitch_keycenter=62
 
 <region>
-sample=..\Samples\flam\d5_flam_rr1.wav
+sample=..\Samples\flam\d5_flam_rr1.flac
 lokey=62
 hikey=62
 seq_length=12
@@ -2307,7 +2307,7 @@ seq_position=5
 pitch_keycenter=62
 
 <region>
-sample=..\Samples\flam\d5_flam_rr2.wav
+sample=..\Samples\flam\d5_flam_rr2.flac
 lokey=62
 hikey=62
 seq_length=12
@@ -2315,7 +2315,7 @@ seq_position=6
 pitch_keycenter=62
 
 <region>
-sample=..\Samples\flam\d5_flam_rr1.wav
+sample=..\Samples\flam\d5_flam_rr1.flac
 lokey=62
 hikey=62
 seq_length=12
@@ -2323,7 +2323,7 @@ seq_position=7
 pitch_keycenter=62
 
 <region>
-sample=..\Samples\flam\d5_flam_rr2.wav
+sample=..\Samples\flam\d5_flam_rr2.flac
 lokey=62
 hikey=62
 seq_length=12
@@ -2331,7 +2331,7 @@ seq_position=8
 pitch_keycenter=62
 
 <region>
-sample=..\Samples\flam\d5_flam_rr1.wav
+sample=..\Samples\flam\d5_flam_rr1.flac
 lokey=62
 hikey=62
 seq_length=12
@@ -2339,7 +2339,7 @@ seq_position=9
 pitch_keycenter=62
 
 <region>
-sample=..\Samples\flam\d5_flam_rr2.wav
+sample=..\Samples\flam\d5_flam_rr2.flac
 lokey=62
 hikey=62
 seq_length=12
@@ -2347,7 +2347,7 @@ seq_position=10
 pitch_keycenter=62
 
 <region>
-sample=..\Samples\flam\d5_flam_rr1.wav
+sample=..\Samples\flam\d5_flam_rr1.flac
 lokey=62
 hikey=62
 seq_length=12
@@ -2355,7 +2355,7 @@ seq_position=11
 pitch_keycenter=62
 
 <region>
-sample=..\Samples\flam\d5_flam_rr2.wav
+sample=..\Samples\flam\d5_flam_rr2.flac
 lokey=62
 hikey=62
 seq_length=12
@@ -2363,14 +2363,14 @@ seq_position=12
 pitch_keycenter=62
 
 <region>
-sample=..\Samples\flam\eb5_flam_rr1.wav
+sample=..\Samples\flam\eb5_flam_rr1.flac
 lokey=63
 hikey=63
 seq_length=12
 pitch_keycenter=63
 
 <region>
-sample=..\Samples\flam\eb5_flam_rr2.wav
+sample=..\Samples\flam\eb5_flam_rr2.flac
 lokey=63
 hikey=63
 seq_length=12
@@ -2378,7 +2378,7 @@ seq_position=2
 pitch_keycenter=63
 
 <region>
-sample=..\Samples\flam\eb5_flam_rr1.wav
+sample=..\Samples\flam\eb5_flam_rr1.flac
 lokey=63
 hikey=63
 seq_length=12
@@ -2386,7 +2386,7 @@ seq_position=3
 pitch_keycenter=63
 
 <region>
-sample=..\Samples\flam\eb5_flam_rr2.wav
+sample=..\Samples\flam\eb5_flam_rr2.flac
 lokey=63
 hikey=63
 seq_length=12
@@ -2394,7 +2394,7 @@ seq_position=4
 pitch_keycenter=63
 
 <region>
-sample=..\Samples\flam\eb5_flam_rr1.wav
+sample=..\Samples\flam\eb5_flam_rr1.flac
 lokey=63
 hikey=63
 seq_length=12
@@ -2402,7 +2402,7 @@ seq_position=5
 pitch_keycenter=63
 
 <region>
-sample=..\Samples\flam\eb5_flam_rr2.wav
+sample=..\Samples\flam\eb5_flam_rr2.flac
 lokey=63
 hikey=63
 seq_length=12
@@ -2410,7 +2410,7 @@ seq_position=6
 pitch_keycenter=63
 
 <region>
-sample=..\Samples\flam\eb5_flam_rr1.wav
+sample=..\Samples\flam\eb5_flam_rr1.flac
 lokey=63
 hikey=63
 seq_length=12
@@ -2418,7 +2418,7 @@ seq_position=7
 pitch_keycenter=63
 
 <region>
-sample=..\Samples\flam\eb5_flam_rr2.wav
+sample=..\Samples\flam\eb5_flam_rr2.flac
 lokey=63
 hikey=63
 seq_length=12
@@ -2426,7 +2426,7 @@ seq_position=8
 pitch_keycenter=63
 
 <region>
-sample=..\Samples\flam\eb5_flam_rr1.wav
+sample=..\Samples\flam\eb5_flam_rr1.flac
 lokey=63
 hikey=63
 seq_length=12
@@ -2434,7 +2434,7 @@ seq_position=9
 pitch_keycenter=63
 
 <region>
-sample=..\Samples\flam\eb5_flam_rr2.wav
+sample=..\Samples\flam\eb5_flam_rr2.flac
 lokey=63
 hikey=63
 seq_length=12
@@ -2442,7 +2442,7 @@ seq_position=10
 pitch_keycenter=63
 
 <region>
-sample=..\Samples\flam\eb5_flam_rr1.wav
+sample=..\Samples\flam\eb5_flam_rr1.flac
 lokey=63
 hikey=63
 seq_length=12
@@ -2450,7 +2450,7 @@ seq_position=11
 pitch_keycenter=63
 
 <region>
-sample=..\Samples\flam\eb5_flam_rr2.wav
+sample=..\Samples\flam\eb5_flam_rr2.flac
 lokey=63
 hikey=63
 seq_length=12
@@ -2458,14 +2458,14 @@ seq_position=12
 pitch_keycenter=63
 
 <region>
-sample=..\Samples\flam\e5_flam_rr1.wav
+sample=..\Samples\flam\e5_flam_rr1.flac
 lokey=64
 hikey=64
 seq_length=12
 pitch_keycenter=64
 
 <region>
-sample=..\Samples\flam\e5_flam_rr2.wav
+sample=..\Samples\flam\e5_flam_rr2.flac
 lokey=64
 hikey=64
 seq_length=12
@@ -2473,7 +2473,7 @@ seq_position=2
 pitch_keycenter=64
 
 <region>
-sample=..\Samples\flam\e5_flam_rr1.wav
+sample=..\Samples\flam\e5_flam_rr1.flac
 lokey=64
 hikey=64
 seq_length=12
@@ -2481,7 +2481,7 @@ seq_position=3
 pitch_keycenter=64
 
 <region>
-sample=..\Samples\flam\e5_flam_rr2.wav
+sample=..\Samples\flam\e5_flam_rr2.flac
 lokey=64
 hikey=64
 seq_length=12
@@ -2489,7 +2489,7 @@ seq_position=4
 pitch_keycenter=64
 
 <region>
-sample=..\Samples\flam\e5_flam_rr1.wav
+sample=..\Samples\flam\e5_flam_rr1.flac
 lokey=64
 hikey=64
 seq_length=12
@@ -2497,7 +2497,7 @@ seq_position=5
 pitch_keycenter=64
 
 <region>
-sample=..\Samples\flam\e5_flam_rr2.wav
+sample=..\Samples\flam\e5_flam_rr2.flac
 lokey=64
 hikey=64
 seq_length=12
@@ -2505,7 +2505,7 @@ seq_position=6
 pitch_keycenter=64
 
 <region>
-sample=..\Samples\flam\e5_flam_rr1.wav
+sample=..\Samples\flam\e5_flam_rr1.flac
 lokey=64
 hikey=64
 seq_length=12
@@ -2513,7 +2513,7 @@ seq_position=7
 pitch_keycenter=64
 
 <region>
-sample=..\Samples\flam\e5_flam_rr2.wav
+sample=..\Samples\flam\e5_flam_rr2.flac
 lokey=64
 hikey=64
 seq_length=12
@@ -2521,7 +2521,7 @@ seq_position=8
 pitch_keycenter=64
 
 <region>
-sample=..\Samples\flam\e5_flam_rr1.wav
+sample=..\Samples\flam\e5_flam_rr1.flac
 lokey=64
 hikey=64
 seq_length=12
@@ -2529,7 +2529,7 @@ seq_position=9
 pitch_keycenter=64
 
 <region>
-sample=..\Samples\flam\e5_flam_rr2.wav
+sample=..\Samples\flam\e5_flam_rr2.flac
 lokey=64
 hikey=64
 seq_length=12
@@ -2537,7 +2537,7 @@ seq_position=10
 pitch_keycenter=64
 
 <region>
-sample=..\Samples\flam\e5_flam_rr1.wav
+sample=..\Samples\flam\e5_flam_rr1.flac
 lokey=64
 hikey=64
 seq_length=12
@@ -2545,7 +2545,7 @@ seq_position=11
 pitch_keycenter=64
 
 <region>
-sample=..\Samples\flam\e5_flam_rr2.wav
+sample=..\Samples\flam\e5_flam_rr2.flac
 lokey=64
 hikey=64
 seq_length=12
@@ -2553,14 +2553,14 @@ seq_position=12
 pitch_keycenter=64
 
 <region>
-sample=..\Samples\flam\f5_flam_rr1.wav
+sample=..\Samples\flam\f5_flam_rr1.flac
 lokey=65
 hikey=65
 seq_length=12
 pitch_keycenter=65
 
 <region>
-sample=..\Samples\flam\f5_flam_rr2.wav
+sample=..\Samples\flam\f5_flam_rr2.flac
 lokey=65
 hikey=65
 seq_length=12
@@ -2568,7 +2568,7 @@ seq_position=2
 pitch_keycenter=65
 
 <region>
-sample=..\Samples\flam\f5_flam_rr1.wav
+sample=..\Samples\flam\f5_flam_rr1.flac
 lokey=65
 hikey=65
 seq_length=12
@@ -2576,7 +2576,7 @@ seq_position=3
 pitch_keycenter=65
 
 <region>
-sample=..\Samples\flam\f5_flam_rr2.wav
+sample=..\Samples\flam\f5_flam_rr2.flac
 lokey=65
 hikey=65
 seq_length=12
@@ -2584,7 +2584,7 @@ seq_position=4
 pitch_keycenter=65
 
 <region>
-sample=..\Samples\flam\f5_flam_rr1.wav
+sample=..\Samples\flam\f5_flam_rr1.flac
 lokey=65
 hikey=65
 seq_length=12
@@ -2592,7 +2592,7 @@ seq_position=5
 pitch_keycenter=65
 
 <region>
-sample=..\Samples\flam\f5_flam_rr2.wav
+sample=..\Samples\flam\f5_flam_rr2.flac
 lokey=65
 hikey=65
 seq_length=12
@@ -2600,7 +2600,7 @@ seq_position=6
 pitch_keycenter=65
 
 <region>
-sample=..\Samples\flam\f5_flam_rr1.wav
+sample=..\Samples\flam\f5_flam_rr1.flac
 lokey=65
 hikey=65
 seq_length=12
@@ -2608,7 +2608,7 @@ seq_position=7
 pitch_keycenter=65
 
 <region>
-sample=..\Samples\flam\f5_flam_rr2.wav
+sample=..\Samples\flam\f5_flam_rr2.flac
 lokey=65
 hikey=65
 seq_length=12
@@ -2616,7 +2616,7 @@ seq_position=8
 pitch_keycenter=65
 
 <region>
-sample=..\Samples\flam\f5_flam_rr1.wav
+sample=..\Samples\flam\f5_flam_rr1.flac
 lokey=65
 hikey=65
 seq_length=12
@@ -2624,7 +2624,7 @@ seq_position=9
 pitch_keycenter=65
 
 <region>
-sample=..\Samples\flam\f5_flam_rr2.wav
+sample=..\Samples\flam\f5_flam_rr2.flac
 lokey=65
 hikey=65
 seq_length=12
@@ -2632,7 +2632,7 @@ seq_position=10
 pitch_keycenter=65
 
 <region>
-sample=..\Samples\flam\f5_flam_rr1.wav
+sample=..\Samples\flam\f5_flam_rr1.flac
 lokey=65
 hikey=65
 seq_length=12
@@ -2640,7 +2640,7 @@ seq_position=11
 pitch_keycenter=65
 
 <region>
-sample=..\Samples\flam\f5_flam_rr2.wav
+sample=..\Samples\flam\f5_flam_rr2.flac
 lokey=65
 hikey=65
 seq_length=12
